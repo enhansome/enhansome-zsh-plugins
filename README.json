@@ -229,7 +229,7 @@
             "last_commit": "2026-08-11T14:44:46Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82535
+            "stars": 82551
           }
         },
         {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-11T11:03:43Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189140
+                "stars": 189161
               }
             },
             {
@@ -386,7 +386,7 @@
             "last_commit": "2026-08-10T11:01:16Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64095
+            "stars": 64136
           }
         },
         {
@@ -400,7 +400,7 @@
             "last_commit": "2025-03-06T03:26:32Z",
             "owner": "microsoft",
             "repo": "cascadia-code",
-            "stars": 27834
+            "stars": 27838
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2024-03-22T16:47:30Z",
             "owner": "powerline",
             "repo": "fonts",
-            "stars": 26325
+            "stars": 26323
           }
         },
         {
@@ -428,7 +428,7 @@
             "last_commit": "2026-03-27T23:10:14Z",
             "owner": "githubnext",
             "repo": "monaspace",
-            "stars": 19552
+            "stars": 19554
           }
         },
         {
@@ -442,7 +442,7 @@
             "last_commit": "2020-12-16T10:22:30Z",
             "owner": "mozilla",
             "repo": "Fira",
-            "stars": 5142
+            "stars": 5141
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2024-01-16T06:56:48Z",
             "owner": "gabrielelana",
             "repo": "awesome-terminal-fonts",
-            "stars": 2524
+            "stars": 2523
           }
         },
         {
@@ -548,7 +548,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-10T21:59:42Z",
+            "last_commit": "2026-08-13T17:17:56Z",
             "owner": "mattmc3",
             "repo": "zephyr",
             "stars": 251
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-10T18:53:37Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38628
+            "stars": 38641
           }
         },
         {
@@ -776,7 +776,7 @@
             "last_commit": "2025-06-24T16:15:03Z",
             "owner": "zsh-users",
             "repo": "zsh-autosuggestions",
-            "stars": 35966
+            "stars": 35968
           }
         },
         {
@@ -787,10 +787,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T10:26:33Z",
+            "last_commit": "2026-08-13T08:19:13Z",
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 34864
+            "stars": 34878
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-08-07T19:11:51Z",
             "owner": "zsh-users",
             "repo": "zsh-syntax-highlighting",
-            "stars": 22921
+            "stars": 22922
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-05T12:24:49Z",
             "owner": "marlonrichert",
             "repo": "zsh-autocomplete",
-            "stars": 6688
+            "stars": 6690
           }
         },
         {
@@ -888,7 +888,7 @@
             "last_commit": "2026-06-04T05:44:51Z",
             "owner": "Aloxaf",
             "repo": "fzf-tab",
-            "stars": 4874
+            "stars": 4876
           }
         },
         {
@@ -902,7 +902,7 @@
             "last_commit": "2026-07-19T15:19:45Z",
             "owner": "jeffreytse",
             "repo": "zsh-vi-mode",
-            "stars": 4422
+            "stars": 4423
           }
         },
         {
@@ -997,10 +997,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-12T23:01:12Z",
+            "last_commit": "2026-08-13T21:57:32Z",
             "owner": "agkozak",
             "repo": "zsh-z",
-            "stars": 2431
+            "stars": 2432
           }
         },
         {
@@ -1042,7 +1042,7 @@
             "last_commit": "2026-05-26T09:12:25Z",
             "owner": "MichaelAquilina",
             "repo": "zsh-you-should-use",
-            "stars": 1922
+            "stars": 1923
           }
         },
         {
@@ -1417,10 +1417,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-07T15:04:12Z",
+            "last_commit": "2026-08-13T20:25:15Z",
             "owner": "michel-kraemer",
             "repo": "zsh-patina",
-            "stars": 463
+            "stars": 464
           }
         },
         {
@@ -1476,7 +1476,7 @@
             "last_commit": "2017-04-18T09:42:27Z",
             "owner": "hchbaw",
             "repo": "auto-fu.zsh",
-            "stars": 435
+            "stars": 436
           }
         },
         {
@@ -1767,7 +1767,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-10T17:13:42Z",
+            "last_commit": "2026-08-13T14:52:43Z",
             "owner": "unixorn",
             "repo": "tumult.plugin.zsh",
             "stars": 215
@@ -2243,7 +2243,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-11T09:47:42Z",
+            "last_commit": "2026-08-13T09:51:34Z",
             "owner": "AndydeCleyre",
             "repo": "zpy",
             "stars": 99
@@ -2397,7 +2397,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2023-05-03T19:06:03Z",
+            "last_commit": "2026-08-13T21:35:54Z",
             "owner": "yuhonas",
             "repo": "zsh-ansimotd",
             "stars": 83
@@ -3049,6 +3049,20 @@
         },
         {
           "node_type": "item",
+          "title": "ez-compinit",
+          "description": "Wraps , queueing up calls to , and hooking the real call to an event that runs at the end of your . That way you get all the benefits of calling early without any of the downsides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-11T13:49:39Z",
+            "owner": "mattmc3",
+            "repo": "ez-compinit",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
           "title": "iterm-tab-colors",
           "description": "Automatically changes iTerm 2 tab color based on the current working directory.",
           "children": [],
@@ -3086,20 +3100,6 @@
             "last_commit": "2024-12-12T14:29:40Z",
             "owner": "zsh-vi-more",
             "repo": "evil-registers",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ez-compinit",
-          "description": "Wraps , queueing up calls to , and hooking the real call to an event that runs at the end of your . That way you get all the benefits of calling early without any of the downsides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-01-11T13:49:39Z",
-            "owner": "mattmc3",
-            "repo": "ez-compinit",
             "stars": 47
           }
         },
@@ -7235,6 +7235,20 @@
         },
         {
           "node_type": "item",
+          "title": "clean-history",
+          "description": "Smart ZSH history cleanup plugin that automatically removes typos and failed commands based on similarity analysis. Removes failed commands similar to successful ones, finds rare commands similar to common variants, automatically captures command success/failure, adjusts similarity thresholds and behavior & creates backups before cleaning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T13:47:19Z",
+            "owner": "Automaat",
+            "repo": "zsh-clean-history",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
           "title": "cycle-jobs",
           "description": "The ZSH Cycle Jobs Plugin is a simple yet powerful tool that enhances your terminal workflow by allowing you to cycle through background jobs using a single keyboard shortcut. This plugin is particularly useful for developers and system administrators who frequently work with multiple background processes.",
           "children": [],
@@ -7264,7 +7278,7 @@
         {
           "node_type": "item",
           "title": "explain-shell (brokentoaster)",
-          "description": "Uses lynx to look up the current command line on explainshell.com.",
+          "description": "Uses to look up the current command line on explainshell.com.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7627,20 +7641,6 @@
         },
         {
           "node_type": "item",
-          "title": "clean-history",
-          "description": "Smart ZSH history cleanup plugin that automatically removes typos and failed commands based on similarity analysis. Removes failed commands similar to successful ones, finds rare commands similar to common variants, automatically captures command success/failure, adjusts similarity thresholds and behavior & creates backups before cleaning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-09T13:47:19Z",
-            "owner": "Automaat",
-            "repo": "zsh-clean-history",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
           "title": "deja-vu",
           "description": "Logs and retrieves command history based on the directory it was run in. Never forget that complex or command you ran in a project folder weeks ago.",
           "children": [],
@@ -7745,7 +7745,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-12T11:12:54Z",
+            "last_commit": "2026-08-13T07:55:44Z",
             "owner": "ethan605",
             "repo": "fzfsh",
             "stars": 7
@@ -14395,7 +14395,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-06-17T07:57:44Z",
+            "last_commit": "2026-08-13T13:21:41Z",
             "owner": "aoantov",
             "repo": "jirarc",
             "stars": 1
@@ -15943,6 +15943,20 @@
         },
         {
           "node_type": "item",
+          "title": "lumen",
+          "description": "Deterministic command suggestions for ZSH — inline, on demand, no AI round-trip required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T16:50:24Z",
+            "owner": "thangduonghuu",
+            "repo": "lumen",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "macos-theme",
           "description": "Adds the theme command, which toggles between light and dark mode in macOS. Requires lux plugin.",
           "children": [],
@@ -16005,7 +16019,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-04-07T11:06:10Z",
+            "last_commit": "2026-08-13T08:56:55Z",
             "owner": "martvdmoosdijk",
             "repo": "zsh-nvm-auto-use",
             "stars": 0
@@ -16636,7 +16650,7 @@
             "last_commit": "2026-08-11T03:27:57Z",
             "owner": "microsoft",
             "repo": "inshellisense",
-            "stars": 10610
+            "stars": 10614
           }
         },
         {
@@ -16689,7 +16703,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T20:45:47Z",
+            "last_commit": "2026-08-13T23:05:06Z",
             "owner": "carapace-sh",
             "repo": "carapace-bin",
             "stars": 1920
@@ -16703,7 +16717,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-07T01:06:11Z",
+            "last_commit": "2026-08-13T09:14:09Z",
             "owner": "gradle",
             "repo": "gradle-completion",
             "stars": 1108
@@ -16748,7 +16762,7 @@
             "last_commit": "2026-07-10T22:25:15Z",
             "owner": "dim-an",
             "repo": "cod",
-            "stars": 551
+            "stars": 552
           }
         },
         {
@@ -16790,7 +16804,7 @@
             "last_commit": "2024-11-27T07:20:54Z",
             "owner": "sigoden",
             "repo": "argc-completions",
-            "stars": 454
+            "stars": 456
           }
         },
         {
@@ -17123,7 +17137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-12T12:29:40Z",
+            "last_commit": "2026-08-13T12:30:58Z",
             "owner": "wbingli",
             "repo": "zsh-claudecode-completion",
             "stars": 53
@@ -18145,7 +18159,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T01:36:37Z",
+            "last_commit": "2026-08-13T23:20:31Z",
             "owner": "i-love-coffee-i-love-tea",
             "repo": "derakht-cli",
             "stars": 5
@@ -19750,7 +19764,7 @@
             "last_commit": "2026-08-10T11:01:16Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64095
+            "stars": 64136
           }
         },
         {
@@ -19764,7 +19778,7 @@
             "last_commit": "2026-06-15T07:54:59Z",
             "owner": "romkatv",
             "repo": "powerlevel10k",
-            "stars": 54903
+            "stars": 54906
           }
         },
         {
@@ -19778,7 +19792,7 @@
             "last_commit": "2026-08-05T22:32:54Z",
             "owner": "spaceship-prompt",
             "repo": "spaceship-prompt",
-            "stars": 20557
+            "stars": 20558
           }
         },
         {
@@ -19918,7 +19932,7 @@
             "last_commit": "2024-07-29T11:38:47Z",
             "owner": "caiogondim",
             "repo": "bullet-train.zsh",
-            "stars": 2840
+            "stars": 2838
           }
         },
         {
@@ -20100,7 +20114,7 @@
             "last_commit": "2023-03-18T11:07:50Z",
             "owner": "mashaal",
             "repo": "wild-cherry",
-            "stars": 485
+            "stars": 484
           }
         },
         {
@@ -20142,7 +20156,7 @@
             "last_commit": "2019-05-27T23:29:08Z",
             "owner": "zakaziko99",
             "repo": "agnosterzak-ohmyzsh-theme",
-            "stars": 404
+            "stars": 405
           }
         },
         {
@@ -20212,7 +20226,7 @@
             "last_commit": "2024-06-18T01:22:28Z",
             "owner": "ChesterYue",
             "repo": "ohmyzsh-theme-passion",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -20450,7 +20464,7 @@
             "last_commit": "2026-06-19T06:12:08Z",
             "owner": "sobolevn",
             "repo": "sobole-zsh-theme",
-            "stars": 165
+            "stars": 166
           }
         },
         {
@@ -21015,6 +21029,20 @@
         },
         {
           "node_type": "item",
+          "title": "pretty",
+          "description": "Prompt written in rust with decorators for state, branch, tag pointing at current commit, count of changed, newly-added, staged, conflicting files, number of files in the stash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T12:46:24Z",
+            "owner": "TomasTomecek",
+            "repo": "pretty-git-prompt",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
           "title": "prompt-powerline",
           "description": "A fairly heavyweight ZSH prompt, based on the powerline font from the popular eponymous plugin, which works well for a dark background.",
           "children": [],
@@ -21393,20 +21421,6 @@
         },
         {
           "node_type": "item",
-          "title": "ubunly",
-          "description": "Mimics the Kali Linux console. Note - this theme also rebinds a lot of keys and sets a bunch of ZSH options that themes should leave alone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-11-12T00:23:28Z",
-            "owner": "alejandromume",
-            "repo": "ubunly-zsh-theme",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
           "title": "cute",
           "description": "A macOS oh-my-zsh shell theme with cute emoji based on the Powerline Vim plugin.",
           "children": [],
@@ -21430,6 +21444,20 @@
             "last_commit": "2020-02-26T06:06:21Z",
             "owner": "dogrocker",
             "repo": "oh-my-zsh-powerline-cute-theme",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ubunly",
+          "description": "Mimics the Kali Linux console. Note - this theme also rebinds a lot of keys and sets a bunch of ZSH options that themes should leave alone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-11-12T00:23:28Z",
+            "owner": "alejandromume",
+            "repo": "ubunly-zsh-theme",
             "stars": 31
           }
         },
@@ -22757,7 +22785,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-30T07:43:33Z",
+            "last_commit": "2026-08-13T17:59:53Z",
             "owner": "aaqaishtyaq",
             "repo": "iay",
             "stars": 9
@@ -31193,6 +31221,20 @@
         },
         {
           "node_type": "item",
+          "title": "emojify",
+          "description": "Theme for displaying different types of emoji at the prompt. Includes decorators for status, current directory and user@hostname.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-01T15:30:07Z",
+            "owner": "retro49",
+            "repo": "emojify",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "eubw",
           "description": "A simple theme with information.",
           "children": [],
@@ -33041,6 +33083,20 @@
         },
         {
           "node_type": "item",
+          "title": "pond",
+          "description": "A calm two-line oh-my-zsh theme in pastel greens and blues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T00:32:24Z",
+            "owner": "notreallycheeks",
+            "repo": "pond-zsh-theme",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "poor-programmer",
           "description": "Programmer's theme with status, ruby version and project path.",
           "children": [],
@@ -34301,6 +34357,20 @@
         },
         {
           "node_type": "item",
+          "title": "vaporwave",
+          "description": "Colorful with decorators for status, python virtualenv, exit status of last command and time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T00:28:14Z",
+            "owner": "notreallycheeks",
+            "repo": "vaporwave-zsh-theme",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "vehemence",
           "description": "Includes decorators for , , , time, last command exit code and status.",
           "children": [],
@@ -34380,6 +34450,20 @@
             "last_commit": "2023-06-20T12:44:04Z",
             "owner": "Mihail-Sebiastian",
             "repo": "Warm-Colours.zsh-theme",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weakline",
+          "description": "a blazingly fast, lightweight, and modern prompt written in Go. Includes decorators for status, current directory and python virtual environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T20:14:27Z",
+            "owner": "vihrom",
+            "repo": "weakline",
             "stars": 0
           }
         },
@@ -34666,7 +34750,7 @@
             "last_commit": "2026-08-10T11:01:16Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64095
+            "stars": 64136
           }
         },
         {
@@ -34677,10 +34761,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T09:36:06Z",
+            "last_commit": "2026-08-13T13:32:30Z",
             "owner": "subframe7536",
             "repo": "maple-font",
-            "stars": 28117
+            "stars": 28143
           }
         },
         {
@@ -34694,7 +34778,7 @@
             "last_commit": "2024-03-22T16:47:30Z",
             "owner": "powerline",
             "repo": "fonts",
-            "stars": 26325
+            "stars": 26323
           }
         },
         {
@@ -34708,7 +34792,7 @@
             "last_commit": "2026-08-13T03:23:28Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22618
+            "stars": 22617
           }
         },
         {
@@ -34736,7 +34820,7 @@
             "last_commit": "2024-01-16T06:56:48Z",
             "owner": "gabrielelana",
             "repo": "awesome-terminal-fonts",
-            "stars": 2524
+            "stars": 2523
           }
         },
         {
@@ -34866,7 +34950,7 @@
             "last_commit": "2026-04-27T09:38:33Z",
             "owner": "romkatv",
             "repo": "zsh-bench",
-            "stars": 1024
+            "stars": 1025
           }
         },
         {
@@ -34877,7 +34961,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:08:07Z",
+            "last_commit": "2026-08-13T18:38:14Z",
             "owner": "tqdm",
             "repo": "shtab",
             "stars": 461
@@ -35138,7 +35222,7 @@
             "last_commit": "2026-06-20T20:39:14Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34888
+            "stars": 34891
           }
         },
         {
@@ -35152,7 +35236,7 @@
             "last_commit": "2024-07-26T15:27:31Z",
             "owner": "k4m4",
             "repo": "terminals-are-sexy",
-            "stars": 13074
+            "stars": 13075
           }
         },
         {
@@ -35166,7 +35250,7 @@
             "last_commit": "2024-07-29T13:08:35Z",
             "owner": "jondot",
             "repo": "awesome-devenv",
-            "stars": 3327
+            "stars": 3328
           }
         }
       ],
@@ -35186,7 +35270,7 @@
             "last_commit": "2026-05-08T15:42:52Z",
             "owner": "rothgar",
             "repo": "mastering-zsh",
-            "stars": 1636
+            "stars": 1637
           }
         },
         {
@@ -35213,9 +35297,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:58:18.536Z",
+    "last_updated": "2026-08-13T23:20:58.976Z",
     "original_repository": "unixorn/awesome-zsh-plugins",
-    "original_repository_sha": "550b67c511062357ab41b087b34436119c5b5f9e",
+    "original_repository_sha": "90b2c59f4d435af5fdcf7f273bc16be4e6b6027d",
     "enhanced_repository": "enhansome/enhansome-zsh-plugins",
     "enhanced_repository_description": null,
     "title": "awesome-zsh-plugins with stars"
