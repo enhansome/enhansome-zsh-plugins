@@ -64,6 +64,28 @@
           "title": "antibody"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "use-omz",
+              "description": "enables easy use of Oh-My-ZSH with antidote.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 819437597,
+                "language": "Shell",
+                "last_commit": "2026-03-27T22:49:44Z",
+                "owner": "getantidote",
+                "repo": "use-omz",
+                "stars": 38
+              }
+            }
+          ],
+          "description": "Antidote is a ZSH plugin manager made from the ground up thinking about performance.\nIt is fast because it can do things concurrently, and generates an ultra-fast static plugin file that you can include in your ZSH config.\nIt is written natively in ZSH, is well tested, and picks up where Antibody left off.",
+          "node_type": "group",
+          "title": "antidote"
+        },
+        {
           "children": [],
           "description": "antigen-hs is a replacement for antigen optimized for a low overhead when starting up a session. It will automatically clone plugins for you.",
           "node_type": "item",
@@ -289,7 +311,23 @@
           "title": "ryzshrc"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Configuration file using TOML",
+              "description": "syntax.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8385616,
+                "language": null,
+                "last_commit": "2026-07-03T10:35:59Z",
+                "owner": "toml-lang",
+                "repo": "toml",
+                "stars": 20583
+              }
+            }
+          ],
           "description": "sheldon is a fast, configurable, shell plugin manager.",
           "node_type": "item",
           "repo_info": {
@@ -401,10 +439,10 @@
             "archived": false,
             "id": 543955160,
             "language": "Awk",
-            "last_commit": "2026-08-22T23:33:26Z",
+            "last_commit": "2026-08-24T11:23:33Z",
             "owner": "x-cmd",
             "repo": "x-cmd",
-            "stars": 4583
+            "stars": 4584
           },
           "title": "x-cmd"
         },
@@ -521,7 +559,7 @@
             "archived": false,
             "id": 1241314051,
             "language": "Nix",
-            "last_commit": "2026-07-07T23:43:10Z",
+            "last_commit": "2026-08-24T13:32:36Z",
             "owner": "declnix",
             "repo": "zsh.nix",
             "stars": 1
@@ -629,7 +667,7 @@
             "last_commit": "2026-08-18T07:09:16Z",
             "owner": "zdharma-continuum",
             "repo": "zinit",
-            "stars": 4812
+            "stars": 4813
           },
           "title": "Zinit"
         },
@@ -749,10 +787,10 @@
                 "archived": false,
                 "id": 13807606,
                 "language": "Go",
-                "last_commit": "2026-08-23T15:40:10Z",
+                "last_commit": "2026-08-24T01:02:41Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82623
+                "stars": 82632
               }
             },
             {
@@ -799,10 +837,10 @@
                     "archived": false,
                     "id": 291137,
                     "language": "Shell",
-                    "last_commit": "2026-08-23T12:53:50Z",
+                    "last_commit": "2026-08-24T06:41:53Z",
                     "owner": "ohmyzsh",
                     "repo": "ohmyzsh",
-                    "stars": 189327
+                    "stars": 189346
                   }
                 },
                 {
@@ -1009,7 +1047,7 @@
             "archived": false,
             "id": 1030719605,
             "language": "Shell",
-            "last_commit": "2026-08-23T10:03:00Z",
+            "last_commit": "2026-08-23T23:40:07Z",
             "owner": "shyndman",
             "repo": "zush",
             "stars": 7
@@ -1057,6 +1095,100 @@
       "title": "Frameworks"
     },
     {
+      "description": "This section is for full setup dropins - they aren't frameworks, but they're not simple plugins/themes either.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "master-oogway",
+              "description": "A complete zsh environment — dragon prompt theme, git aliases, fuzzy-finder functions, and 25 opt-in plugins — distributed as a standalone git repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1224941359,
+                "language": "Shell",
+                "last_commit": "2026-07-19T17:23:05Z",
+                "owner": "tomershay100",
+                "repo": "master-oogway",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "oh-my-zsh"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KronuZSH",
+              "description": "An opinionated, complete ZSH configuration—not a plugin intended to be sourced into an existing framework. It installs the standard ZSH runcoms and owns the shell options, history, completion, keybindings, plugins, and prompt they load.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1271611828,
+                "language": "Shell",
+                "last_commit": "2026-08-05T16:10:52Z",
+                "owner": "Kronuz",
+                "repo": "KronuZSH",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Raw ZSH"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zsh-quickstart-kit",
+              "description": "A simple quickstart for using ZSH with zgenom. This automatically configures ZSH to use zgenom to load a curated (but easily customizable) collection of plugins and periodically automatically update itself, the plugins, and the quickstart kit itself.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17031094,
+                "language": "Shell",
+                "last_commit": "2026-08-22T13:16:17Z",
+                "owner": "unixorn",
+                "repo": "zsh-quickstart-kit",
+                "stars": 909
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "zgenom"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ZPWR",
+              "description": "An extremely powerful custom terminal environment built on top of Zinit for maximum speed. A full terminal configuration framework including , , , and spacemacs configurations. It includes:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323112269,
+                "language": "Shell",
+                "last_commit": "2026-08-19T03:15:07Z",
+                "owner": "MenkeTechnologies",
+                "repo": "zpwr",
+                "stars": 225
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "zinit"
+        }
+      ],
+      "title": "Setups"
+    },
+    {
       "description": "If you're on a Mac, the that comes with each OS update is usually very stale. You can use to update it.\nMany of the themes here use special glyphs for things like displaying a branch icon. You'll need to use a Nerd Font or a Powerline-compatible font in your terminal program or you'll see ugly broken boxes where the symbols should be.\nHere are a few good sources for Nerd Fonts and Powerline-compatible fonts:\nIf you're looking for a new font to use, check out www.codingfont.com - it presents programming fonts in a bracket-style tournament and lets you keep picking the best of two presented options until landing on a final font.",
       "items": [
         {
@@ -1071,7 +1203,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64367
+            "stars": 64380
           }
         },
         {
@@ -1086,7 +1218,7 @@
             "last_commit": "2025-03-06T03:26:32Z",
             "owner": "microsoft",
             "repo": "cascadia-code",
-            "stars": 27859
+            "stars": 27863
           }
         },
         {
@@ -1331,6 +1463,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "belak/zsh-utils",
+              "description": "A minimal set of ZSH plugins designed to be low-friction and low-complexity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128132796,
+                "language": "Shell",
+                "last_commit": "2025-10-15T18:38:08Z",
+                "owner": "belak",
+                "repo": "zsh-utils",
+                "stars": 212
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Antigen"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "One Key Linux Setup",
               "description": "Simple setup (ubuntu-only) of , , , support and other packages.",
               "children": [],
@@ -1378,6 +1532,28 @@
           "description": null,
           "node_type": "group",
           "title": "Oh-My-Zsh"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rad-shell",
+              "description": "A fantastically feature rich, lightning-fast shell setup, powered by ZSH, Prezto, and Zgen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77949454,
+                "language": "Shell",
+                "last_commit": "2025-11-08T06:48:15Z",
+                "owner": "brandon-fryslie",
+                "repo": "rad-shell",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Zgen"
         },
         {
           "children": [
@@ -1484,10 +1660,10 @@
             "archived": false,
             "id": 245166720,
             "language": "Rust",
-            "last_commit": "2026-08-23T22:41:21Z",
+            "last_commit": "2026-08-24T02:58:01Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38794
+            "stars": 38806
           }
         },
         {
@@ -1502,7 +1678,7 @@
             "last_commit": "2025-06-24T16:15:03Z",
             "owner": "zsh-users",
             "repo": "zsh-autosuggestions",
-            "stars": 36003
+            "stars": 36005
           }
         },
         {
@@ -1514,10 +1690,10 @@
             "archived": false,
             "id": 292014229,
             "language": "Rust",
-            "last_commit": "2026-08-20T09:12:36Z",
+            "last_commit": "2026-08-24T13:21:43Z",
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 35070
+            "stars": 35088
           }
         },
         {
@@ -1532,7 +1708,7 @@
             "last_commit": "2026-08-22T02:19:05Z",
             "owner": "zsh-users",
             "repo": "zsh-syntax-highlighting",
-            "stars": 22944
+            "stars": 22945
           }
         },
         {
@@ -1577,7 +1753,7 @@
             "last_commit": "2026-08-05T12:24:49Z",
             "owner": "marlonrichert",
             "repo": "zsh-autocomplete",
-            "stars": 6701
+            "stars": 6703
           }
         },
         {
@@ -1592,7 +1768,7 @@
             "last_commit": "2025-11-20T09:05:30Z",
             "owner": "hyperupcall",
             "repo": "autoenv",
-            "stars": 6048
+            "stars": 6049
           }
         },
         {
@@ -1607,7 +1783,7 @@
             "last_commit": "2026-08-21T01:06:30Z",
             "owner": "wfxr",
             "repo": "forgit",
-            "stars": 5069
+            "stars": 5070
           }
         },
         {
@@ -1622,7 +1798,7 @@
             "last_commit": "2026-06-04T05:44:51Z",
             "owner": "Aloxaf",
             "repo": "fzf-tab",
-            "stars": 4896
+            "stars": 4897
           }
         },
         {
@@ -1637,7 +1813,7 @@
             "last_commit": "2026-07-19T15:19:45Z",
             "owner": "jeffreytse",
             "repo": "zsh-vi-mode",
-            "stars": 4429
+            "stars": 4432
           }
         },
         {
@@ -1727,7 +1903,7 @@
             "last_commit": "2026-08-14T17:48:29Z",
             "owner": "agkozak",
             "repo": "zsh-z",
-            "stars": 2435
+            "stars": 2437
           }
         },
         {
@@ -1847,7 +2023,7 @@
             "last_commit": "2025-04-13T09:13:59Z",
             "owner": "Bhupesh-V",
             "repo": "ugit",
-            "stars": 1509
+            "stars": 1508
           }
         },
         {
@@ -1862,7 +2038,7 @@
             "last_commit": "2024-04-27T05:27:19Z",
             "owner": "larkery",
             "repo": "zsh-histdb",
-            "stars": 1382
+            "stars": 1383
           }
         },
         {
@@ -1874,7 +2050,7 @@
             "archived": false,
             "id": 24296070,
             "language": "Shell",
-            "last_commit": "2026-08-23T13:31:26Z",
+            "last_commit": "2026-08-24T09:43:18Z",
             "owner": "unixorn",
             "repo": "git-extra-commands",
             "stars": 1169
@@ -1892,7 +2068,7 @@
             "last_commit": "2024-09-30T19:07:49Z",
             "owner": "deluan",
             "repo": "zsh-in-docker",
-            "stars": 1116
+            "stars": 1117
           }
         },
         {
@@ -2057,7 +2233,7 @@
             "last_commit": "2024-07-14T19:18:24Z",
             "owner": "hlissner",
             "repo": "zsh-autopair",
-            "stars": 627
+            "stars": 628
           }
         },
         {
@@ -2162,7 +2338,7 @@
             "last_commit": "2026-08-23T05:57:11Z",
             "owner": "michel-kraemer",
             "repo": "zsh-patina",
-            "stars": 484
+            "stars": 486
           }
         },
         {
@@ -3172,6 +3348,21 @@
         },
         {
           "node_type": "item",
+          "title": "tinted-shell",
+          "description": "Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as Vim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8754325,
+            "language": "Shell",
+            "last_commit": "2026-08-16T01:26:21Z",
+            "owner": "tinted-theming",
+            "repo": "tinted-shell",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
           "title": "fzf-widgets",
           "description": "Adds some ZLE widgets for fzf.",
           "children": [],
@@ -3197,21 +3388,6 @@
             "last_commit": "2025-02-15T12:51:33Z",
             "owner": "ntnyq",
             "repo": "omz-plugin-pnpm",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tinted-shell",
-          "description": "Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as Vim.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 8754325,
-            "language": "Shell",
-            "last_commit": "2026-08-16T01:26:21Z",
-            "owner": "tinted-theming",
-            "repo": "tinted-shell",
             "stars": 92
           }
         },
@@ -5017,6 +5193,21 @@
         },
         {
           "node_type": "item",
+          "title": "magento-2",
+          "description": "Adds function to run magento binary, adds tab completions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157584966,
+            "language": "Shell",
+            "last_commit": "2022-08-23T10:13:59Z",
+            "owner": "dambrogia",
+            "repo": "oh-my-zsh-plugin-magento-2",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
           "title": "oh-my-matrix",
           "description": "Turn your terminal into the matrix.",
           "children": [],
@@ -5087,21 +5278,6 @@
             "last_commit": "2023-11-12T19:43:29Z",
             "owner": "vitobotta",
             "repo": "zsh-history-sync",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "magento-2",
-          "description": "Adds function to run magento binary, adds tab completions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 157584966,
-            "language": "Shell",
-            "last_commit": "2022-08-23T10:13:59Z",
-            "owner": "dambrogia",
-            "repo": "oh-my-zsh-plugin-magento-2",
             "stars": 26
           }
         },
@@ -5272,6 +5448,21 @@
         },
         {
           "node_type": "item",
+          "title": "atuin",
+          "description": "Replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154121117,
+            "language": null,
+            "last_commit": "2026-02-10T02:25:55Z",
+            "owner": "ellie",
+            "repo": "atuin",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ccline",
           "description": "Type a thought at your zsh prompt — no command, no prefix — and get an answer from Claude or Codex. If the answer contains shell commands, confirm once and run them.",
           "children": [],
@@ -5377,21 +5568,6 @@
         },
         {
           "node_type": "item",
-          "title": "atuin",
-          "description": "Replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1154121117,
-            "language": null,
-            "last_commit": "2026-02-10T02:25:55Z",
-            "owner": "ellie",
-            "repo": "atuin",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
           "title": "branch-manager",
           "description": "A plugin for managing branches.",
           "children": [],
@@ -5432,6 +5608,21 @@
             "last_commit": "2016-05-22T11:49:13Z",
             "owner": "denysdovhan",
             "repo": "gitio-zsh",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jj",
+          "description": "Add support for jujitsu VCS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 953676975,
+            "language": "Shell",
+            "last_commit": "2026-08-05T08:14:06Z",
+            "owner": "rkh",
+            "repo": "zsh-jj",
             "stars": 22
           }
         },
@@ -5482,16 +5673,16 @@
         },
         {
           "node_type": "item",
-          "title": "jj",
-          "description": "Add support for jujitsu VCS.",
+          "title": "edit-select",
+          "description": "Brings a full text-editor experience to the ZSH command line: copy, cut, paste, undo/redo, type-to-replace, and native X11/Wayland clipboard integration, with Shift+Arrow and mouse selection support.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 953676975,
+            "id": 1098968597,
             "language": "Shell",
-            "last_commit": "2026-08-05T08:14:06Z",
-            "owner": "rkh",
-            "repo": "zsh-jj",
+            "last_commit": "2026-08-23T08:10:22Z",
+            "owner": "Michael-Matta1",
+            "repo": "zsh-edit-select",
             "stars": 21
           }
         },
@@ -5672,21 +5863,6 @@
             "last_commit": "2019-03-20T17:59:24Z",
             "owner": "walesmd",
             "repo": "caniuse.plugin.zsh",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "edit-select",
-          "description": "Brings a full text-editor experience to the ZSH command line: copy, cut, paste, undo/redo, type-to-replace, and native X11/Wayland clipboard integration, with Shift+Arrow and mouse selection support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1098968597,
-            "language": "Shell",
-            "last_commit": "2026-08-23T08:10:22Z",
-            "owner": "Michael-Matta1",
-            "repo": "zsh-edit-select",
             "stars": 20
           }
         },
@@ -7574,7 +7750,7 @@
             "archived": false,
             "id": 1116302047,
             "language": "Shell",
-            "last_commit": "2026-08-03T09:13:44Z",
+            "last_commit": "2026-08-24T05:18:54Z",
             "owner": "Data-Wise",
             "repo": "flow-cli",
             "stars": 10
@@ -10364,7 +10540,7 @@
             "archived": false,
             "id": 936142683,
             "language": "Shell",
-            "last_commit": "2026-08-23T01:26:23Z",
+            "last_commit": "2026-08-24T01:23:24Z",
             "owner": "phucisstupid",
             "repo": "cowsay.zsh",
             "stars": 5
@@ -11984,7 +12160,7 @@
             "archived": false,
             "id": 1053335613,
             "language": "Shell",
-            "last_commit": "2026-08-17T01:27:42Z",
+            "last_commit": "2026-08-24T01:36:30Z",
             "owner": "zsh-contrib",
             "repo": "zsh-tmux",
             "stars": 4
@@ -12494,7 +12670,7 @@
             "archived": false,
             "id": 1151958245,
             "language": "Shell",
-            "last_commit": "2026-08-17T00:55:49Z",
+            "last_commit": "2026-08-24T00:57:06Z",
             "owner": "zsh-contrib",
             "repo": "zsh-eza",
             "stars": 3
@@ -13529,7 +13705,7 @@
             "archived": false,
             "id": 1129578843,
             "language": "Shell",
-            "last_commit": "2026-08-17T01:11:53Z",
+            "last_commit": "2026-08-24T01:13:35Z",
             "owner": "zsh-contrib",
             "repo": "zsh-aws",
             "stars": 2
@@ -13919,7 +14095,7 @@
             "archived": false,
             "id": 949287278,
             "language": "Shell",
-            "last_commit": "2026-08-17T00:28:05Z",
+            "last_commit": "2026-08-24T00:30:01Z",
             "owner": "zsh-contrib",
             "repo": "zsh-fzf",
             "stars": 2
@@ -14414,7 +14590,7 @@
             "archived": false,
             "id": 1138658671,
             "language": "Shell",
-            "last_commit": "2026-08-17T01:44:59Z",
+            "last_commit": "2026-08-24T01:46:55Z",
             "owner": "zsh-contrib",
             "repo": "zsh-op",
             "stars": 2
@@ -15089,7 +15265,7 @@
             "archived": false,
             "id": 977901304,
             "language": "Shell",
-            "last_commit": "2026-08-17T00:36:10Z",
+            "last_commit": "2026-08-24T00:37:48Z",
             "owner": "zsh-contrib",
             "repo": "zsh-vivid",
             "stars": 2
@@ -15884,7 +16060,7 @@
             "archived": false,
             "id": 1021268545,
             "language": "Rust",
-            "last_commit": "2026-08-22T17:12:26Z",
+            "last_commit": "2026-08-24T05:49:11Z",
             "owner": "shields",
             "repo": "git-prompt-watcher",
             "stars": 1
@@ -18515,10 +18691,10 @@
             "archived": false,
             "id": 702159481,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:23:03Z",
+            "last_commit": "2026-08-24T03:08:52Z",
             "owner": "microsoft",
             "repo": "inshellisense",
-            "stars": 10669
+            "stars": 10673
           }
         },
         {
@@ -18533,7 +18709,7 @@
             "last_commit": "2026-08-21T00:11:10Z",
             "owner": "zsh-users",
             "repo": "zsh-completions",
-            "stars": 7868
+            "stars": 7869
           }
         },
         {
@@ -18548,7 +18724,7 @@
             "last_commit": "2026-04-14T01:07:32Z",
             "owner": "cantino",
             "repo": "mcfly",
-            "stars": 7780
+            "stars": 7781
           }
         },
         {
@@ -18575,7 +18751,7 @@
             "archived": false,
             "id": 257400448,
             "language": "Go",
-            "last_commit": "2026-08-23T20:16:36Z",
+            "last_commit": "2026-08-24T04:36:01Z",
             "owner": "carapace-sh",
             "repo": "carapace-bin",
             "stars": 1933
@@ -18728,7 +18904,7 @@
             "last_commit": "2025-12-12T22:11:52Z",
             "owner": "nix-community",
             "repo": "nix-zsh-completions",
-            "stars": 280
+            "stars": 281
           }
         },
         {
@@ -19028,7 +19204,7 @@
             "last_commit": "2026-08-23T12:14:36Z",
             "owner": "wbingli",
             "repo": "zsh-claudecode-completion",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -20750,7 +20926,7 @@
             "archived": false,
             "id": 438413020,
             "language": "Shell",
-            "last_commit": "2026-08-23T01:41:57Z",
+            "last_commit": "2026-08-24T01:39:47Z",
             "owner": "jygastaud",
             "repo": "dagger-oh-my-zsh",
             "stars": 2
@@ -21839,7 +22015,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64367
+            "stars": 64380
           }
         },
         {
@@ -21854,7 +22030,7 @@
             "last_commit": "2026-08-15T09:23:06Z",
             "owner": "romkatv",
             "repo": "powerlevel10k",
-            "stars": 54959
+            "stars": 54965
           }
         },
         {
@@ -21884,7 +22060,7 @@
             "last_commit": "2026-07-16T13:03:26Z",
             "owner": "sindresorhus",
             "repo": "pure",
-            "stars": 14398
+            "stars": 14399
           }
         },
         {
@@ -21899,7 +22075,7 @@
             "last_commit": "2020-04-23T18:43:47Z",
             "owner": "Powerlevel9k",
             "repo": "powerlevel9k",
-            "stars": 13409
+            "stars": 13410
           }
         },
         {
@@ -21914,7 +22090,7 @@
             "last_commit": "2020-04-23T18:43:47Z",
             "owner": "Powerlevel9k",
             "repo": "powerlevel9k",
-            "stars": 13409
+            "stars": 13410
           }
         },
         {
@@ -21959,7 +22135,7 @@
             "last_commit": "2026-08-23T15:30:56Z",
             "owner": "liquidprompt",
             "repo": "liquidprompt",
-            "stars": 4673
+            "stars": 4674
           }
         },
         {
@@ -21974,7 +22150,7 @@
             "last_commit": "2023-01-23T10:33:26Z",
             "owner": "agnoster",
             "repo": "agnoster-zsh-theme",
-            "stars": 4233
+            "stars": 4234
           }
         },
         {
@@ -22829,7 +23005,7 @@
             "last_commit": "2019-03-11T15:30:09Z",
             "owner": "tobyjamesthomas",
             "repo": "pi",
-            "stars": 110
+            "stars": 109
           }
         },
         {
@@ -23354,7 +23530,7 @@
             "last_commit": "2026-06-23T02:42:03Z",
             "owner": "tolkonepiu",
             "repo": "catppuccin-powerlevel10k-themes",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -31466,7 +31642,7 @@
             "archived": false,
             "id": 284322509,
             "language": "Shell",
-            "last_commit": "2026-08-17T03:46:26Z",
+            "last_commit": "2026-08-24T03:16:11Z",
             "owner": "LanikSJ",
             "repo": "laniksj-zsh-theme",
             "stars": 1
@@ -33717,7 +33893,7 @@
             "id": 301343553,
             "language": null,
             "last_commit": "2020-10-20T18:55:20Z",
-            "owner": "Patr1ot",
+            "owner": "nikviac",
             "repo": "clean.zsh-theme",
             "stars": 0
           }
@@ -37910,7 +38086,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64367
+            "stars": 64380
           }
         },
         {
@@ -37925,7 +38101,7 @@
             "last_commit": "2026-08-23T09:59:28Z",
             "owner": "subframe7536",
             "repo": "maple-font",
-            "stars": 28377
+            "stars": 28391
           }
         },
         {
@@ -37952,10 +38128,10 @@
             "archived": false,
             "id": 39315600,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T14:52:23Z",
+            "last_commit": "2026-08-24T05:32:58Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22660
+            "stars": 22663
           }
         },
         {
@@ -37970,7 +38146,7 @@
             "last_commit": "2026-03-15T16:37:54Z",
             "owner": "belluzj",
             "repo": "fantasque-sans",
-            "stars": 7433
+            "stars": 7434
           }
         },
         {
@@ -38164,7 +38340,7 @@
                 "last_commit": "2026-08-22T22:31:12Z",
                 "owner": "carapace-sh",
                 "repo": "carapace",
-                "stars": 1423
+                "stars": 1424
               }
             },
             {
@@ -38206,10 +38382,10 @@
                 "archived": false,
                 "id": 272102149,
                 "language": "Python",
-                "last_commit": "2026-08-22T20:53:45Z",
+                "last_commit": "2026-08-24T13:50:20Z",
                 "owner": "tqdm",
                 "repo": "shtab",
-                "stars": 463
+                "stars": 464
               }
             },
             {
@@ -38486,7 +38662,7 @@
                 "last_commit": "2026-08-19T09:58:40Z",
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 34971
+                "stars": 34978
               }
             },
             {
@@ -38501,7 +38677,7 @@
                 "last_commit": "2024-07-26T15:27:31Z",
                 "owner": "k4m4",
                 "repo": "terminals-are-sexy",
-                "stars": 13085
+                "stars": 13087
               }
             },
             {
@@ -38566,7 +38742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:51:00.998Z",
+    "last_updated": "2026-08-24T13:50:28.423Z",
     "original_repository": "unixorn/awesome-zsh-plugins",
     "original_repository_id": 24878875,
     "original_repository_sha": "d630724b75ed9a09af0cadd0cff14acba436e88d",
