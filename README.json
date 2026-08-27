@@ -246,7 +246,7 @@
             "last_commit": "2026-04-24T20:29:14Z",
             "owner": "sorin-ionescu",
             "repo": "prezto",
-            "stars": 14567
+            "stars": 14566
           },
           "title": "prezto"
         },
@@ -324,7 +324,7 @@
                 "last_commit": "2026-07-03T10:35:59Z",
                 "owner": "toml-lang",
                 "repo": "toml",
-                "stars": 20585
+                "stars": 20588
               }
             }
           ],
@@ -382,7 +382,7 @@
             "last_commit": "2026-08-24T16:10:56Z",
             "owner": "joknarf",
             "repo": "thefly",
-            "stars": 86
+            "stars": 87
           },
           "title": "thefly"
         },
@@ -439,10 +439,10 @@
             "archived": false,
             "id": 543955160,
             "language": "Awk",
-            "last_commit": "2026-08-24T23:32:48Z",
+            "last_commit": "2026-08-26T13:08:11Z",
             "owner": "x-cmd",
             "repo": "x-cmd",
-            "stars": 4587
+            "stars": 4590
           },
           "title": "x-cmd"
         },
@@ -652,7 +652,7 @@
             "last_commit": "2026-08-17T23:24:03Z",
             "owner": "zimfw",
             "repo": "zimfw",
-            "stars": 4675
+            "stars": 4676
           },
           "title": "zim"
         },
@@ -664,7 +664,7 @@
             "archived": false,
             "id": 422751904,
             "language": "Shell",
-            "last_commit": "2026-08-25T12:02:57Z",
+            "last_commit": "2026-08-26T06:45:38Z",
             "owner": "zdharma-continuum",
             "repo": "zinit",
             "stars": 4816
@@ -727,7 +727,7 @@
             "last_commit": "2026-08-06T13:38:21Z",
             "owner": "marlonrichert",
             "repo": "zsh-snap",
-            "stars": 1541
+            "stars": 1540
           },
           "title": "znap"
         },
@@ -787,10 +787,10 @@
                 "archived": false,
                 "id": 13807606,
                 "language": "Go",
-                "last_commit": "2026-08-24T01:02:41Z",
+                "last_commit": "2026-08-26T00:07:09Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82651
+                "stars": 82666
               }
             },
             {
@@ -820,7 +820,7 @@
                 "last_commit": "2026-03-04T09:40:33Z",
                 "owner": "zplug",
                 "repo": "zplug",
-                "stars": 6051
+                "stars": 6050
               }
             },
             {
@@ -840,7 +840,7 @@
                     "last_commit": "2026-08-25T14:40:25Z",
                     "owner": "ohmyzsh",
                     "repo": "ohmyzsh",
-                    "stars": 189373
+                    "stars": 189398
                   }
                 },
                 {
@@ -855,7 +855,7 @@
                     "last_commit": "2026-03-04T09:40:33Z",
                     "owner": "zplug",
                     "repo": "zplug",
-                    "stars": 6051
+                    "stars": 6050
                   }
                 }
               ]
@@ -870,7 +870,7 @@
             "last_commit": "2026-03-04T09:40:33Z",
             "owner": "zplug",
             "repo": "zplug",
-            "stars": 6051
+            "stars": 6050
           },
           "title": "zplug"
         },
@@ -882,7 +882,7 @@
             "archived": false,
             "id": 32639671,
             "language": "Shell",
-            "last_commit": "2026-07-22T13:33:05Z",
+            "last_commit": "2026-08-26T18:38:54Z",
             "owner": "zpm-zsh",
             "repo": "zpm",
             "stars": 403
@@ -1203,7 +1203,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64400
+            "stars": 64427
           }
         },
         {
@@ -1218,7 +1218,7 @@
             "last_commit": "2025-03-06T03:26:32Z",
             "owner": "microsoft",
             "repo": "cascadia-code",
-            "stars": 27865
+            "stars": 27866
           }
         },
         {
@@ -1248,7 +1248,7 @@
             "last_commit": "2026-03-27T23:10:14Z",
             "owner": "githubnext",
             "repo": "monaspace",
-            "stars": 19583
+            "stars": 19586
           }
         },
         {
@@ -1331,7 +1331,7 @@
                 "last_commit": "2026-04-24T20:29:14Z",
                 "owner": "sorin-ionescu",
                 "repo": "prezto",
-                "stars": 14567
+                "stars": 14566
               }
             },
             {
@@ -1663,7 +1663,7 @@
             "last_commit": "2026-08-24T18:44:27Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38837
+            "stars": 38914
           }
         },
         {
@@ -1678,7 +1678,7 @@
             "last_commit": "2025-06-24T16:15:03Z",
             "owner": "zsh-users",
             "repo": "zsh-autosuggestions",
-            "stars": 36013
+            "stars": 36014
           }
         },
         {
@@ -1690,10 +1690,10 @@
             "archived": false,
             "id": 292014229,
             "language": "Rust",
-            "last_commit": "2026-08-25T13:26:27Z",
+            "last_commit": "2026-08-26T13:12:33Z",
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 35112
+            "stars": 35139
           }
         },
         {
@@ -1708,7 +1708,7 @@
             "last_commit": "2026-08-22T02:19:05Z",
             "owner": "zsh-users",
             "repo": "zsh-syntax-highlighting",
-            "stars": 22952
+            "stars": 22953
           }
         },
         {
@@ -1723,7 +1723,7 @@
             "last_commit": "2025-02-27T16:03:23Z",
             "owner": "wting",
             "repo": "autojump",
-            "stars": 16961
+            "stars": 16962
           }
         },
         {
@@ -1750,10 +1750,10 @@
             "archived": false,
             "id": 258494065,
             "language": "Shell",
-            "last_commit": "2026-08-05T12:24:49Z",
+            "last_commit": "2026-08-26T18:38:38Z",
             "owner": "marlonrichert",
             "repo": "zsh-autocomplete",
-            "stars": 6706
+            "stars": 6709
           }
         },
         {
@@ -1873,7 +1873,7 @@
             "last_commit": "2026-01-15T17:44:56Z",
             "owner": "zsh-users",
             "repo": "zsh-history-substring-search",
-            "stars": 3094
+            "stars": 3095
           }
         },
         {
@@ -1963,7 +1963,7 @@
             "last_commit": "2026-05-26T09:12:25Z",
             "owner": "MichaelAquilina",
             "repo": "zsh-you-should-use",
-            "stars": 1925
+            "stars": 1926
           }
         },
         {
@@ -2050,10 +2050,10 @@
             "archived": false,
             "id": 24296070,
             "language": "Shell",
-            "last_commit": "2026-08-24T17:22:09Z",
+            "last_commit": "2026-08-26T21:59:08Z",
             "owner": "unixorn",
             "repo": "git-extra-commands",
-            "stars": 1169
+            "stars": 1168
           }
         },
         {
@@ -2068,7 +2068,7 @@
             "last_commit": "2024-09-30T19:07:49Z",
             "owner": "deluan",
             "repo": "zsh-in-docker",
-            "stars": 1117
+            "stars": 1118
           }
         },
         {
@@ -2218,7 +2218,7 @@
             "last_commit": "2026-02-07T10:07:56Z",
             "owner": "MichaelAquilina",
             "repo": "zsh-autoswitch-virtualenv",
-            "stars": 633
+            "stars": 634
           }
         },
         {
@@ -2443,7 +2443,7 @@
             "last_commit": "2026-08-17T11:05:47Z",
             "owner": "unixorn",
             "repo": "fzf-zsh-plugin",
-            "stars": 430
+            "stars": 431
           }
         },
         {
@@ -2740,7 +2740,7 @@
             "archived": false,
             "id": 47377855,
             "language": "Shell",
-            "last_commit": "2026-08-24T17:14:23Z",
+            "last_commit": "2026-08-26T21:59:14Z",
             "owner": "unixorn",
             "repo": "tumult.plugin.zsh",
             "stars": 215
@@ -3055,7 +3055,7 @@
             "archived": false,
             "id": 486199662,
             "language": "Shell",
-            "last_commit": "2026-08-25T07:36:42Z",
+            "last_commit": "2026-08-27T02:09:25Z",
             "owner": "z-shell",
             "repo": "zsh-eza",
             "stars": 119
@@ -3070,7 +3070,7 @@
             "archived": false,
             "id": 486199662,
             "language": "Shell",
-            "last_commit": "2026-08-25T07:36:42Z",
+            "last_commit": "2026-08-27T02:09:25Z",
             "owner": "z-shell",
             "repo": "zsh-eza",
             "stars": 119
@@ -3970,7 +3970,7 @@
             "archived": false,
             "id": 15982862,
             "language": "Shell",
-            "last_commit": "2026-07-24T02:27:59Z",
+            "last_commit": "2026-08-26T01:07:55Z",
             "owner": "voronkovich",
             "repo": "gitignore.plugin.zsh",
             "stars": 55
@@ -4053,21 +4053,6 @@
         },
         {
           "node_type": "item",
-          "title": "pyenv-lazy",
-          "description": "Lazy load pyenv. The initial is executed the first time is called.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 105636009,
-            "language": "Shell",
-            "last_commit": "2023-02-26T02:33:54Z",
-            "owner": "davidparsson",
-            "repo": "zsh-pyenv-lazy",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
           "title": "zabb",
           "description": "is a command that tries to figure out the shortest memorable abbreviation of a directory that is usable by z to unambiguously jump to that directory.",
           "children": [],
@@ -4078,6 +4063,21 @@
             "last_commit": "2023-01-12T23:57:39Z",
             "owner": "Mellbourn",
             "repo": "zabb",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyenv-lazy",
+          "description": "Lazy load pyenv. The initial is executed the first time is called.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105636009,
+            "language": "Shell",
+            "last_commit": "2023-02-26T02:33:54Z",
+            "owner": "davidparsson",
+            "repo": "zsh-pyenv-lazy",
             "stars": 50
           }
         },
@@ -8605,7 +8605,7 @@
             "archived": false,
             "id": 1091598164,
             "language": "Rust",
-            "last_commit": "2026-08-25T22:37:36Z",
+            "last_commit": "2026-08-26T22:16:25Z",
             "owner": "Automaat",
             "repo": "zsh-clean-history",
             "stars": 8
@@ -9112,10 +9112,10 @@
           "description": "Replaces with eza-community/eza.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 689407709,
             "language": "Shell",
-            "last_commit": "2025-08-25T20:45:14Z",
+            "last_commit": "2026-08-26T03:25:28Z",
             "owner": "wushenrong",
             "repo": "zsh-eza",
             "stars": 7
@@ -10540,7 +10540,7 @@
             "archived": false,
             "id": 936142683,
             "language": "Shell",
-            "last_commit": "2026-08-25T01:20:36Z",
+            "last_commit": "2026-08-26T01:23:59Z",
             "owner": "phucisstupid",
             "repo": "cowsay.zsh",
             "stars": 5
@@ -16743,21 +16743,6 @@
         },
         {
           "node_type": "item",
-          "title": "plenv",
-          "description": "Plugin for the perl plenv version manager based on jenv.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 551751743,
-            "language": "Shell",
-            "last_commit": "2022-12-15T00:27:25Z",
-            "owner": "wushenrong",
-            "repo": "zsh-plenv",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
           "title": "plugin-ibtool",
           "description": "Adds ibtool shortcuts to generate localized XIB files.",
           "children": [],
@@ -17947,10 +17932,10 @@
           "description": "Adds some more aliases for .",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 505514445,
             "language": "Shell",
-            "last_commit": "2023-09-09T15:58:30Z",
+            "last_commit": "2026-08-26T03:08:01Z",
             "owner": "wushenrong",
             "repo": "zsh-ls",
             "stars": 0
@@ -18208,21 +18193,6 @@
             "last_commit": "2026-07-07T20:04:46Z",
             "owner": "dvigo",
             "repo": "project-aliases",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyenv (twopizza9621536)",
-          "description": "Based on the oh-my-zsh pyenv plugin with modifications from the rbenv and jenv plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 551208819,
-            "language": "Shell",
-            "last_commit": "2022-12-15T00:26:07Z",
-            "owner": "wushenrong",
-            "repo": "zsh-pyenv",
             "stars": 0
           }
         },
@@ -18691,10 +18661,10 @@
             "archived": false,
             "id": 702159481,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T20:07:29Z",
+            "last_commit": "2026-08-26T23:39:07Z",
             "owner": "microsoft",
             "repo": "inshellisense",
-            "stars": 10676
+            "stars": 10684
           }
         },
         {
@@ -18721,7 +18691,7 @@
             "archived": false,
             "id": 141060161,
             "language": "Rust",
-            "last_commit": "2026-04-14T01:07:32Z",
+            "last_commit": "2026-08-26T05:34:18Z",
             "owner": "cantino",
             "repo": "mcfly",
             "stars": 7781
@@ -18751,10 +18721,10 @@
             "archived": false,
             "id": 257400448,
             "language": "Go",
-            "last_commit": "2026-08-25T21:37:40Z",
+            "last_commit": "2026-08-26T20:42:15Z",
             "owner": "carapace-sh",
             "repo": "carapace-bin",
-            "stars": 1935
+            "stars": 1936
           }
         },
         {
@@ -18769,7 +18739,7 @@
             "last_commit": "2026-08-20T09:14:42Z",
             "owner": "gradle",
             "repo": "gradle-completion",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -19201,10 +19171,10 @@
             "archived": false,
             "id": 1108766111,
             "language": "Shell",
-            "last_commit": "2026-08-25T12:18:48Z",
+            "last_commit": "2026-08-26T12:16:56Z",
             "owner": "wbingli",
             "repo": "zsh-claudecode-completion",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -19779,6 +19749,21 @@
         },
         {
           "node_type": "item",
+          "title": "claude-code-zsh-completion",
+          "description": "Adds completions for Anthropic's Claude Code CLI. Sessions, MCP servers, agents, models and plugins are completed from your own configuration rather than a fixed list, and labels each session with its first prompt. Localized into 120+ languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1115469228,
+            "language": "Shell",
+            "last_commit": "2026-07-26T23:29:53Z",
+            "owner": "1160054",
+            "repo": "claude-code-zsh-completion",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
           "title": "codeception",
           "description": "Adds command completion for the Codeception Testing Framework.",
           "children": [],
@@ -19820,21 +19805,6 @@
             "owner": "hkupty",
             "repo": "ssh-agent",
             "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "claude-code-zsh-completion",
-          "description": "Adds completions for Anthropic's Claude Code CLI. Sessions, MCP servers, agents, models and plugins are completed from your own configuration rather than a fixed list, and labels each session with its first prompt. Localized into 120+ languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1115469228,
-            "language": "Shell",
-            "last_commit": "2026-07-26T23:29:53Z",
-            "owner": "1160054",
-            "repo": "claude-code-zsh-completion",
-            "stars": 11
           }
         },
         {
@@ -20454,6 +20424,21 @@
         },
         {
           "node_type": "item",
+          "title": "cpan",
+          "description": "Adds and to complete remote CPAN package names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292696952,
+            "language": "Shell",
+            "last_commit": "2026-07-12T03:11:40Z",
+            "owner": "MenkeTechnologies",
+            "repo": "zsh-cpan-completion",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ctop",
           "description": "Tab completions for ctop.",
           "children": [],
@@ -20709,21 +20694,6 @@
         },
         {
           "node_type": "item",
-          "title": "cpan",
-          "description": "Adds and to complete remote CPAN package names.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 292696952,
-            "language": "Shell",
-            "last_commit": "2026-07-12T03:11:40Z",
-            "owner": "MenkeTechnologies",
-            "repo": "zsh-cpan-completion",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
           "title": "dotnet",
           "description": "Dotnet tab completion.",
           "children": [],
@@ -20926,7 +20896,7 @@
             "archived": false,
             "id": 438413020,
             "language": "Shell",
-            "last_commit": "2026-08-25T01:34:57Z",
+            "last_commit": "2026-08-26T01:39:25Z",
             "owner": "jygastaud",
             "repo": "dagger-oh-my-zsh",
             "stars": 2
@@ -21226,9 +21196,9 @@
             "archived": false,
             "id": 1089626503,
             "language": "Shell",
-            "last_commit": "2026-04-30T13:38:57Z",
+            "last_commit": "2026-08-26T19:52:33Z",
             "owner": "scaryrawr",
-            "repo": "copilot.zsh",
+            "repo": "copilot-completions",
             "stars": 1
           }
         },
@@ -22015,7 +21985,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64400
+            "stars": 64427
           }
         },
         {
@@ -22030,7 +22000,7 @@
             "last_commit": "2026-08-15T09:23:06Z",
             "owner": "romkatv",
             "repo": "powerlevel10k",
-            "stars": 54973
+            "stars": 54980
           }
         },
         {
@@ -22045,7 +22015,7 @@
             "last_commit": "2026-08-05T22:32:54Z",
             "owner": "spaceship-prompt",
             "repo": "spaceship-prompt",
-            "stars": 20562
+            "stars": 20566
           }
         },
         {
@@ -22060,7 +22030,7 @@
             "last_commit": "2026-07-16T13:03:26Z",
             "owner": "sindresorhus",
             "repo": "pure",
-            "stars": 14400
+            "stars": 14401
           }
         },
         {
@@ -22075,7 +22045,7 @@
             "last_commit": "2020-04-23T18:43:47Z",
             "owner": "Powerlevel9k",
             "repo": "powerlevel9k",
-            "stars": 13410
+            "stars": 13411
           }
         },
         {
@@ -22090,7 +22060,7 @@
             "last_commit": "2020-04-23T18:43:47Z",
             "owner": "Powerlevel9k",
             "repo": "powerlevel9k",
-            "stars": 13410
+            "stars": 13411
           }
         },
         {
@@ -22180,7 +22150,7 @@
             "last_commit": "2026-08-11T21:18:47Z",
             "owner": "justjanne",
             "repo": "powerline-go",
-            "stars": 2891
+            "stars": 2892
           }
         },
         {
@@ -22990,7 +22960,7 @@
             "last_commit": "2020-11-27T17:23:07Z",
             "owner": "rileytwo",
             "repo": "kiss",
-            "stars": 111
+            "stars": 110
           }
         },
         {
@@ -38086,7 +38056,7 @@
             "last_commit": "2026-08-22T10:22:17Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64400
+            "stars": 64427
           }
         },
         {
@@ -38101,7 +38071,7 @@
             "last_commit": "2026-08-23T09:59:28Z",
             "owner": "subframe7536",
             "repo": "maple-font",
-            "stars": 28419
+            "stars": 28454
           }
         },
         {
@@ -38128,10 +38098,10 @@
             "archived": false,
             "id": 39315600,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T05:05:31Z",
+            "last_commit": "2026-08-26T03:22:01Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22666
+            "stars": 22679
           }
         },
         {
@@ -38241,7 +38211,7 @@
             "last_commit": "2026-04-24T20:29:14Z",
             "owner": "sorin-ionescu",
             "repo": "prezto",
-            "stars": 14567
+            "stars": 14566
           },
           "title": "Prezto"
         },
@@ -38286,7 +38256,7 @@
             "last_commit": "2026-03-04T09:40:33Z",
             "owner": "zplug",
             "repo": "zplug",
-            "stars": 6051
+            "stars": 6050
           },
           "title": "zplug"
         },
@@ -38298,7 +38268,7 @@
             "archived": false,
             "id": 32639671,
             "language": "Shell",
-            "last_commit": "2026-07-22T13:33:05Z",
+            "last_commit": "2026-08-26T18:38:54Z",
             "owner": "zpm-zsh",
             "repo": "zpm",
             "stars": 403
@@ -38337,10 +38307,10 @@
                 "archived": false,
                 "id": 248004667,
                 "language": "Go",
-                "last_commit": "2026-08-24T23:01:25Z",
+                "last_commit": "2026-08-26T23:09:29Z",
                 "owner": "carapace-sh",
                 "repo": "carapace",
-                "stars": 1425
+                "stars": 1427
               }
             },
             {
@@ -38370,7 +38340,7 @@
                 "last_commit": "2026-04-27T09:38:33Z",
                 "owner": "romkatv",
                 "repo": "zsh-bench",
-                "stars": 1027
+                "stars": 1028
               }
             },
             {
@@ -38662,7 +38632,7 @@
                 "last_commit": "2026-08-19T09:58:40Z",
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 34984
+                "stars": 34997
               }
             },
             {
@@ -38677,7 +38647,7 @@
                 "last_commit": "2024-07-26T15:27:31Z",
                 "owner": "k4m4",
                 "repo": "terminals-are-sexy",
-                "stars": 13088
+                "stars": 13089
               }
             },
             {
@@ -38742,7 +38712,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:57:27.234Z",
+    "last_updated": "2026-08-27T03:30:35.090Z",
     "original_repository": "unixorn/awesome-zsh-plugins",
     "original_repository_id": 24878875,
     "original_repository_sha": "d630724b75ed9a09af0cadd0cff14acba436e88d",
