@@ -172,7 +172,7 @@
             "open_issues": 98,
             "owner": "zsh-users",
             "repo": "antigen",
-            "stars": 8353,
+            "stars": 8354,
             "topics": [
               "package-manager",
               "plugin-manager",
@@ -419,7 +419,7 @@
             "open_issues": 198,
             "owner": "sorin-ionescu",
             "repo": "prezto",
-            "stars": 14565,
+            "stars": 14566,
             "topics": [
               "cli",
               "framework",
@@ -545,11 +545,11 @@
                 "id": 8385616,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-02T17:44:11Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-10T09:59:23Z",
+                "open_issues": 6,
                 "owner": "toml-lang",
                 "repo": "toml",
-                "stars": 20610,
+                "stars": 20609,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:15:34.618Z"
@@ -764,7 +764,7 @@
             "open_issues": 105,
             "owner": "x-cmd",
             "repo": "x-cmd",
-            "stars": 4645,
+            "stars": 4644,
             "topics": [
               "agent",
               "ai",
@@ -1167,7 +1167,7 @@
             "open_issues": 111,
             "owner": "zdharma-continuum",
             "repo": "zinit",
-            "stars": 4831,
+            "stars": 4830,
             "topics": [
               "package-manager",
               "plugin-manager",
@@ -1372,11 +1372,11 @@
                 "id": 13807606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-09T00:20:03Z",
-                "open_issues": 330,
+                "last_commit": "2026-09-10T14:19:43Z",
+                "open_issues": 328,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82884,
+                "stars": 82896,
                 "topics": [
                   "bash",
                   "cli",
@@ -1408,7 +1408,7 @@
                 "open_issues": 98,
                 "owner": "zsh-users",
                 "repo": "antigen",
-                "stars": 8353,
+                "stars": 8354,
                 "topics": [
                   "package-manager",
                   "plugin-manager",
@@ -1459,11 +1459,11 @@
                     "id": 291137,
                     "language": "Shell",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T19:46:42Z",
-                    "open_issues": 370,
+                    "last_commit": "2026-09-10T15:33:54Z",
+                    "open_issues": 335,
                     "owner": "ohmyzsh",
                     "repo": "ohmyzsh",
-                    "stars": 189647,
+                    "stars": 189652,
                     "topics": [
                       "cli",
                       "cli-app",
@@ -1548,7 +1548,7 @@
             "open_issues": 0,
             "owner": "zpm-zsh",
             "repo": "zpm",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "android",
               "linux",
@@ -1914,7 +1914,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-07-19T17:23:05Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "tomershay100",
                 "repo": "master-oogway",
                 "stars": 3,
@@ -2016,7 +2016,7 @@
                 "open_issues": 0,
                 "owner": "MenkeTechnologies",
                 "repo": "zpwr",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "bat",
                   "emacs",
@@ -2056,10 +2056,10 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T16:32:47Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64562,
+            "stars": 64570,
             "topics": [
               "font",
               "font-awesome",
@@ -2094,7 +2094,7 @@
             "open_issues": 162,
             "owner": "microsoft",
             "repo": "cascadia-code",
-            "stars": 27880,
+            "stars": 27881,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -2115,7 +2115,7 @@
             "open_issues": 184,
             "owner": "powerline",
             "repo": "fonts",
-            "stars": 26317,
+            "stars": 26318,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -2133,10 +2133,10 @@
             "language": "Shell",
             "license": "OFL-1.1",
             "last_commit": "2026-03-27T23:10:14Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "githubnext",
             "repo": "monaspace",
-            "stars": 19627,
+            "stars": 19628,
             "topics": [
               "font",
               "fonts",
@@ -2258,7 +2258,7 @@
                 "open_issues": 198,
                 "owner": "sorin-ionescu",
                 "repo": "prezto",
-                "stars": 14565,
+                "stars": 14566,
                 "topics": [
                   "cli",
                   "framework",
@@ -2689,7 +2689,7 @@
                     "open_issues": 98,
                     "owner": "zsh-users",
                     "repo": "antigen",
-                    "stars": 8353,
+                    "stars": 8354,
                     "topics": [
                       "package-manager",
                       "plugin-manager",
@@ -2784,7 +2784,7 @@
             "open_issues": 144,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39322,
+            "stars": 39367,
             "topics": [
               "autojump",
               "bash",
@@ -2826,7 +2826,7 @@
             "open_issues": 203,
             "owner": "zsh-users",
             "repo": "zsh-autosuggestions",
-            "stars": 36052,
+            "stars": 36050,
             "topics": [
               "autocomplete",
               "autosuggest",
@@ -2851,10 +2851,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-09T17:16:46Z",
-            "open_issues": 1913,
+            "open_issues": 1915,
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 35348,
+            "stars": 35369,
             "topics": [
               "multiplexer",
               "terminal",
@@ -2879,7 +2879,7 @@
             "open_issues": 214,
             "owner": "zsh-users",
             "repo": "zsh-syntax-highlighting",
-            "stars": 22972,
+            "stars": 22971,
             "topics": [
               "screenshot",
               "shell",
@@ -2932,7 +2932,7 @@
             "open_issues": 55,
             "owner": "StackExchange",
             "repo": "blackbox",
-            "stars": 6766,
+            "stars": 6767,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -2987,7 +2987,7 @@
             "open_issues": 14,
             "owner": "hyperupcall",
             "repo": "autoenv",
-            "stars": 6050,
+            "stars": 6051,
             "topics": [
               "bash",
               "cd",
@@ -3044,10 +3044,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-06-04T05:44:51Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "Aloxaf",
             "repo": "fzf-tab",
-            "stars": 4925,
+            "stars": 4924,
             "topics": [
               "completion",
               "fzf",
@@ -3075,7 +3075,7 @@
             "open_issues": 131,
             "owner": "jeffreytse",
             "repo": "zsh-vi-mode",
-            "stars": 4446,
+            "stars": 4445,
             "topics": [
               "antigen",
               "awesome",
@@ -3117,7 +3117,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4044,
+            "stars": 4045,
             "topics": [
               "encryption",
               "git",
@@ -3175,7 +3175,7 @@
             "open_issues": 75,
             "owner": "skywind3000",
             "repo": "z.lua",
-            "stars": 3146,
+            "stars": 3147,
             "topics": [
               "autojump",
               "bash",
@@ -3213,7 +3213,7 @@
             "open_issues": 46,
             "owner": "zsh-users",
             "repo": "zsh-history-substring-search",
-            "stars": 3100,
+            "stars": 3102,
             "topics": [
               "command-history",
               "fish-shell",
@@ -3278,7 +3278,7 @@
             "open_issues": 20,
             "owner": "agkozak",
             "repo": "zsh-z",
-            "stars": 2445,
+            "stars": 2446,
             "topics": [
               "autojump",
               "command-line-tool",
@@ -3360,7 +3360,7 @@
             "open_issues": 0,
             "owner": "fcambus",
             "repo": "ansiweather",
-            "stars": 1946,
+            "stars": 1947,
             "topics": [
               "ansi",
               "terminal",
@@ -3414,7 +3414,7 @@
             "open_issues": 39,
             "owner": "supercrabtree",
             "repo": "k",
-            "stars": 1806,
+            "stars": 1805,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -3636,7 +3636,7 @@
             "open_issues": 2,
             "owner": "kaplanelad",
             "repo": "shellfirm",
-            "stars": 930,
+            "stars": 932,
             "topics": [
               "agent",
               "ai",
@@ -3716,7 +3716,7 @@
             "open_issues": 16,
             "owner": "olets",
             "repo": "zsh-abbr",
-            "stars": 800,
+            "stars": 801,
             "topics": [
               "abbreviations",
               "cli",
@@ -3755,6 +3755,36 @@
         },
         {
           "node_type": "item",
+          "title": "deja",
+          "description": "Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync",
+            "homepage": null,
+            "id": 1203531250,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-07T12:34:38Z",
+            "open_issues": 11,
+            "owner": "Giammarco-Ferranti",
+            "repo": "deja",
+            "stars": 734,
+            "topics": [
+              "autocomplete",
+              "autocomplete-suggestions",
+              "cli",
+              "developer-tools",
+              "go",
+              "productivity",
+              "shell",
+              "zsh"
+            ]
+          },
+          "first_seen": "2026-08-29T03:50:01.482Z"
+        },
+        {
+          "node_type": "item",
           "title": "dotbare",
           "description": "Interactive dotfile management with the help of fzf.",
           "children": [],
@@ -3784,36 +3814,6 @@
             ]
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
-          "title": "deja",
-          "description": "Predicts the command you want to run from fuzzy matching, the current directory, and which command usually follows the previous one, then shows it as inline ghost text. Backed by a Go daemon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync",
-            "homepage": null,
-            "id": 1203531250,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-09-07T12:34:38Z",
-            "open_issues": 11,
-            "owner": "Giammarco-Ferranti",
-            "repo": "deja",
-            "stars": 730,
-            "topics": [
-              "autocomplete",
-              "autocomplete-suggestions",
-              "cli",
-              "developer-tools",
-              "go",
-              "productivity",
-              "shell",
-              "zsh"
-            ]
-          },
-          "first_seen": "2026-08-29T03:50:01.482Z"
         },
         {
           "node_type": "item",
@@ -3979,7 +3979,7 @@
             "open_issues": 9,
             "owner": "johannjhang",
             "repo": "fz.sh",
-            "stars": 574,
+            "stars": 573,
             "topics": [
               "autocompletion",
               "autojump",
@@ -4711,7 +4711,7 @@
             "open_issues": 6,
             "owner": "jirutka",
             "repo": "zsh-shift-select",
-            "stars": 228,
+            "stars": 227,
             "topics": [
               "shift-select",
               "zle-widgets",
@@ -4866,7 +4866,7 @@
             "id": 22990042,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-22T11:13:20Z",
+            "last_commit": "2026-09-10T22:07:49Z",
             "open_issues": 0,
             "owner": "zpm-zsh",
             "repo": "autoenv",
@@ -4880,27 +4880,6 @@
               "zsh-plugin",
               "zsh-plugins"
             ]
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
-          "title": "directory-history",
-          "description": "A per directory history for ZSH which implements forward/backward navigation as well as substring search in a directory sensitive manner.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Giving you a history which is sensitive to the directory you are currently in",
-            "homepage": null,
-            "id": 17748564,
-            "language": "Shell",
-            "license": null,
-            "last_commit": "2020-01-31T16:14:34Z",
-            "open_issues": 5,
-            "owner": "tymm",
-            "repo": "zsh-directory-history",
-            "stars": 163,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
         },
@@ -4920,6 +4899,27 @@
             "open_issues": 7,
             "owner": "molovo",
             "repo": "revolver",
+            "stars": 164,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
+          "title": "directory-history",
+          "description": "A per directory history for ZSH which implements forward/backward navigation as well as substring search in a directory sensitive manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Giving you a history which is sensitive to the directory you are currently in",
+            "homepage": null,
+            "id": 17748564,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2020-01-31T16:14:34Z",
+            "open_issues": 5,
+            "owner": "tymm",
+            "repo": "zsh-directory-history",
             "stars": 163,
             "topics": []
           },
@@ -5464,7 +5464,7 @@
             "id": 145210566,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2025-10-16T09:32:02Z",
+            "last_commit": "2026-09-10T22:16:15Z",
             "open_issues": 2,
             "owner": "zpm-zsh",
             "repo": "ls",
@@ -5492,7 +5492,7 @@
             "id": 145210566,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2025-10-16T09:32:02Z",
+            "last_commit": "2026-09-10T22:16:15Z",
             "open_issues": 2,
             "owner": "zpm-zsh",
             "repo": "ls",
@@ -5520,7 +5520,7 @@
             "id": 35941395,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2020-12-01T12:52:23Z",
+            "last_commit": "2026-09-10T22:12:28Z",
             "open_issues": 0,
             "owner": "zpm-zsh",
             "repo": "mysql-colorize",
@@ -6507,7 +6507,7 @@
             "open_issues": 1,
             "owner": "svenXY",
             "repo": "timewarrior",
-            "stars": 63,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -6757,7 +6757,7 @@
             "id": 196733047,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2024-03-28T21:15:05Z",
+            "last_commit": "2026-09-10T22:14:40Z",
             "open_issues": 1,
             "owner": "zpm-zsh",
             "repo": "colors",
@@ -6889,6 +6889,32 @@
         },
         {
           "node_type": "item",
+          "title": "zabrze",
+          "description": "A ZSH abbreviation expansion plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "zsh abbreviation expansion plugin",
+            "homepage": null,
+            "id": 395945694,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-08T00:34:36Z",
+            "open_issues": 0,
+            "owner": "Ryooooooga",
+            "repo": "zabrze",
+            "stars": 53,
+            "topics": [
+              "zle-widgets",
+              "zsh",
+              "zsh-plugin",
+              "zsh-plugins"
+            ]
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
           "title": "pyenv (mattberther)",
           "description": "Inspired by zsh-rbenv. Installs, updates or loads , and adds extra functionality.",
           "children": [],
@@ -6930,32 +6956,6 @@
               "z",
               "zoxide",
               "zsh"
-            ]
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
-          "title": "zabrze",
-          "description": "A ZSH abbreviation expansion plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "zsh abbreviation expansion plugin",
-            "homepage": null,
-            "id": 395945694,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-09-08T00:34:36Z",
-            "open_issues": 0,
-            "owner": "Ryooooooga",
-            "repo": "zabrze",
-            "stars": 52,
-            "topics": [
-              "zle-widgets",
-              "zsh",
-              "zsh-plugin",
-              "zsh-plugins"
             ]
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -7231,7 +7231,7 @@
             "id": 87933826,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2025-09-09T08:14:49Z",
+            "last_commit": "2026-09-10T22:07:04Z",
             "open_issues": 0,
             "owner": "zpm-zsh",
             "repo": "clipboard",
@@ -8039,7 +8039,7 @@
             "id": 87971023,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2023-12-21T13:52:41Z",
+            "last_commit": "2026-09-10T22:13:03Z",
             "open_issues": 0,
             "owner": "zpm-zsh",
             "repo": "colorize",
@@ -8969,6 +8969,48 @@
         },
         {
           "node_type": "item",
+          "title": "edit-select",
+          "description": "Brings a full text-editor experience to the ZSH command line: copy, cut, paste, undo/redo, type-to-replace, and native X11/Wayland clipboard integration, with Shift+Arrow and mouse selection support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Edit the command line in your terminal like a text editor with Shift selection, copy/cut/paste, replace on type/paste, undo/redo, mouse integration, and fully customizable keybindings.",
+            "homepage": null,
+            "id": 1098968597,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-02T09:35:08Z",
+            "open_issues": 0,
+            "owner": "Michael-Matta1",
+            "repo": "zsh-edit-select",
+            "stars": 26,
+            "topics": [
+              "cli",
+              "clipboard",
+              "command-line",
+              "command-line-tool",
+              "keybindings",
+              "linux",
+              "linux-shell",
+              "mouse-tracking",
+              "oh-my-zsh",
+              "productivity",
+              "shell",
+              "shift-select",
+              "terminal",
+              "zle",
+              "zsh",
+              "zsh-configuration",
+              "zsh-plugin",
+              "zsh-plugins",
+              "zsh-prompt",
+              "zshell"
+            ]
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
           "title": "history-sync (vitobotta)",
           "description": "Syncs your ZSH history across computers using a private repository. Uses to encrypt the history.",
           "children": [],
@@ -9040,6 +9082,42 @@
         },
         {
           "node_type": "item",
+          "title": "ccline",
+          "description": "Type a thought at your zsh prompt — no command, no prefix — and get an answer from Claude or Codex. If the answer contains shell commands, confirm once and run them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Type a thought at your zsh prompt, get an answer — and run the command it suggests",
+            "homepage": "https://ccline.jianshuo.dev",
+            "id": 1253289046,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-06-16T15:45:48Z",
+            "open_issues": 1,
+            "owner": "jianshuo",
+            "repo": "ccline",
+            "stars": 25,
+            "topics": [
+              "ai",
+              "anthropic",
+              "claude",
+              "cli",
+              "command-line",
+              "command-not-found",
+              "llm",
+              "macos",
+              "natural-language",
+              "productivity",
+              "shell",
+              "terminal",
+              "zsh",
+              "zsh-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
           "title": "cdc",
           "description": "Makes it easier to change directories to directories that are subdirs of a user-defined list of directories. Includes tab-completion, session history and , and equivalents.",
           "children": [],
@@ -9067,48 +9145,6 @@
               "productivity",
               "tab-completion",
               "zsh"
-            ]
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
-          "title": "edit-select",
-          "description": "Brings a full text-editor experience to the ZSH command line: copy, cut, paste, undo/redo, type-to-replace, and native X11/Wayland clipboard integration, with Shift+Arrow and mouse selection support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Edit the command line in your terminal like a text editor with Shift selection, copy/cut/paste, replace on type/paste, undo/redo, mouse integration, and fully customizable keybindings.",
-            "homepage": null,
-            "id": 1098968597,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-09-02T09:35:08Z",
-            "open_issues": 0,
-            "owner": "Michael-Matta1",
-            "repo": "zsh-edit-select",
-            "stars": 25,
-            "topics": [
-              "cli",
-              "clipboard",
-              "command-line",
-              "command-line-tool",
-              "keybindings",
-              "linux",
-              "linux-shell",
-              "mouse-tracking",
-              "oh-my-zsh",
-              "productivity",
-              "shell",
-              "shift-select",
-              "terminal",
-              "zle",
-              "zsh",
-              "zsh-configuration",
-              "zsh-plugin",
-              "zsh-plugins",
-              "zsh-prompt",
-              "zshell"
             ]
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -9178,42 +9214,6 @@
             "repo": "tmuxrepl",
             "stars": 25,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ccline",
-          "description": "Type a thought at your zsh prompt — no command, no prefix — and get an answer from Claude or Codex. If the answer contains shell commands, confirm once and run them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Type a thought at your zsh prompt, get an answer — and run the command it suggests",
-            "homepage": "https://ccline.jianshuo.dev",
-            "id": 1253289046,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-06-16T15:45:48Z",
-            "open_issues": 1,
-            "owner": "jianshuo",
-            "repo": "ccline",
-            "stars": 24,
-            "topics": [
-              "ai",
-              "anthropic",
-              "claude",
-              "cli",
-              "command-line",
-              "command-not-found",
-              "llm",
-              "macos",
-              "natural-language",
-              "productivity",
-              "shell",
-              "terminal",
-              "zsh",
-              "zsh-plugin"
-            ]
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
         },
@@ -10084,7 +10084,7 @@
             "id": 145254151,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T18:54:51Z",
+            "last_commit": "2026-09-10T22:17:30Z",
             "open_issues": 3,
             "owner": "zpm-zsh",
             "repo": "tmux",
@@ -12999,7 +12999,7 @@
             "id": 1116302047,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-09T20:49:17Z",
+            "last_commit": "2026-09-10T05:40:38Z",
             "open_issues": 4,
             "owner": "Data-Wise",
             "repo": "flow-cli",
@@ -14189,6 +14189,27 @@
         },
         {
           "node_type": "item",
+          "title": "abbr-preview",
+          "description": "Previews abbr abbreviations as you type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "zsh-abbr plugin extension that displays abbreviation expansion previews as you type.",
+            "homepage": null,
+            "id": 1119495532,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2025-12-19T11:14:53Z",
+            "open_issues": 0,
+            "owner": "cohml",
+            "repo": "zsh-abbr-preview",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
           "title": "ai-cmd",
           "description": "Generate shell commands from natural language using LLMs via Claude Code or Ollama.",
           "children": [],
@@ -14387,7 +14408,7 @@
             "id": 1091598164,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:18:41Z",
+            "last_commit": "2026-09-10T22:51:27Z",
             "open_issues": 3,
             "owner": "Automaat",
             "repo": "zsh-clean-history",
@@ -14915,27 +14936,6 @@
               "zsh",
               "zsh-plugin"
             ]
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
-          "title": "abbr-preview",
-          "description": "Previews abbr abbreviations as you type.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "zsh-abbr plugin extension that displays abbreviation expansion previews as you type.",
-            "homepage": null,
-            "id": 1119495532,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2025-12-19T11:14:53Z",
-            "open_issues": 0,
-            "owner": "cohml",
-            "repo": "zsh-abbr-preview",
-            "stars": 7,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
         },
@@ -17399,7 +17399,7 @@
             "id": 936142683,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-09T03:41:30Z",
+            "last_commit": "2026-09-10T03:39:15Z",
             "open_issues": 0,
             "owner": "phucisstupid",
             "repo": "cowsay.zsh",
@@ -18780,7 +18780,7 @@
             "id": 181710840,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2021-07-22T22:43:52Z",
+            "last_commit": "2026-09-10T22:08:31Z",
             "open_issues": 0,
             "owner": "zpm-zsh",
             "repo": "check-deps",
@@ -26043,7 +26043,7 @@
             "id": 1021268545,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T18:56:26Z",
+            "last_commit": "2026-09-10T17:35:49Z",
             "open_issues": 4,
             "owner": "shields",
             "repo": "git-prompt-watcher",
@@ -28534,9 +28534,9 @@
             "description": "zsh plugin: keep AI agent instructions (':' commands, e.g. Forge) out of your shell history — dual history files + fzf Ctrl+R multi-view (All/Human/AI)",
             "homepage": null,
             "id": 1229780307,
-            "language": "Shell",
+            "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-22T15:14:27Z",
+            "last_commit": "2026-09-10T13:18:46Z",
             "open_issues": 0,
             "owner": "odurif0",
             "repo": "zsh-dual-history",
@@ -30140,7 +30140,7 @@
             "open_issues": 9,
             "owner": "microsoft",
             "repo": "inshellisense",
-            "stars": 10690,
+            "stars": 10692,
             "topics": [
               "autocomplete",
               "bash",
@@ -30172,10 +30172,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T00:25:32Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "zsh-users",
             "repo": "zsh-completions",
-            "stars": 7875,
+            "stars": 7877,
             "topics": [
               "completion",
               "shell",
@@ -30244,7 +30244,7 @@
             "id": 257400448,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:43:52Z",
+            "last_commit": "2026-09-10T17:20:49Z",
             "open_issues": 90,
             "owner": "carapace-sh",
             "repo": "carapace-bin",
@@ -30283,8 +30283,8 @@
             "id": 78602385,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-09T00:03:36Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-10T09:14:01Z",
+            "open_issues": 29,
             "owner": "gradle",
             "repo": "gradle-completion",
             "stars": 1110,
@@ -30393,7 +30393,7 @@
             "open_issues": 12,
             "owner": "lukechilds",
             "repo": "zsh-better-npm-completion",
-            "stars": 500,
+            "stars": 501,
             "topics": [
               "completion",
               "npm",
@@ -31018,8 +31018,8 @@
             "id": 1108766111,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-09T12:29:50Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-10T12:28:27Z",
+            "open_issues": 7,
             "owner": "wbingli",
             "repo": "zsh-claudecode-completion",
             "stars": 56,
@@ -31646,7 +31646,7 @@
             "id": 87933213,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2023-12-27T17:22:17Z",
+            "last_commit": "2026-09-10T22:19:14Z",
             "open_issues": 0,
             "owner": "zpm-zsh",
             "repo": "ssh",
@@ -33798,7 +33798,7 @@
             "id": 438413020,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T04:03:39Z",
+            "last_commit": "2026-09-10T04:01:59Z",
             "open_issues": 0,
             "owner": "jygastaud",
             "repo": "dagger-oh-my-zsh",
@@ -35380,10 +35380,10 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T16:32:47Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64562,
+            "stars": 64570,
             "topics": [
               "font",
               "font-awesome",
@@ -35418,7 +35418,7 @@
             "open_issues": 150,
             "owner": "romkatv",
             "repo": "powerlevel10k",
-            "stars": 55073,
+            "stars": 55081,
             "topics": [
               "zsh"
             ]
@@ -35441,7 +35441,7 @@
             "open_issues": 129,
             "owner": "spaceship-prompt",
             "repo": "spaceship-prompt",
-            "stars": 20573,
+            "stars": 20572,
             "topics": [
               "oh-my-zsh",
               "prompt",
@@ -35505,7 +35505,7 @@
             "open_issues": 166,
             "owner": "Powerlevel9k",
             "repo": "powerlevel9k",
-            "stars": 13408,
+            "stars": 13407,
             "topics": [
               "eye-candy",
               "powerline-fonts",
@@ -35533,7 +35533,7 @@
             "open_issues": 166,
             "owner": "Powerlevel9k",
             "repo": "powerlevel9k",
-            "stars": 13408,
+            "stars": 13407,
             "topics": [
               "eye-candy",
               "powerline-fonts",
@@ -35619,11 +35619,11 @@
             "id": 5109468,
             "language": "Shell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T14:55:56Z",
+            "last_commit": "2026-09-10T15:43:20Z",
             "open_issues": 29,
             "owner": "liquidprompt",
             "repo": "liquidprompt",
-            "stars": 4675,
+            "stars": 4674,
             "topics": [
               "bash",
               "linux-shell",
@@ -38592,6 +38592,36 @@
         },
         {
           "node_type": "item",
+          "title": "cobalt-spark",
+          "description": "A compact, low-noise theme designed to stay out of the way during everyday terminal work. Includes abbreviated paths and concise indicators for Git state, virtualenvs, nested shells and background jobs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A compact, low-noise Zsh prompt with live Git updates and smart branch shortening.",
+            "homepage": null,
+            "id": 1311930789,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-10T23:28:19Z",
+            "open_issues": 3,
+            "owner": "azhuchkov",
+            "repo": "cobalt-spark",
+            "stars": 30,
+            "topics": [
+              "live-git",
+              "minimalist",
+              "oh-my-zsh",
+              "prompt",
+              "shell",
+              "terminal",
+              "zsh",
+              "zsh-theme"
+            ]
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
           "title": "minimal-improved",
           "description": "Theme for dark terminals, includes decorations in the right-side prompt.",
           "children": [],
@@ -38656,35 +38686,6 @@
             "topics": [
               "oh-my-zsh",
               "oh-my-zsh-theme",
-              "zsh",
-              "zsh-theme"
-            ]
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
-          "title": "cobalt-spark",
-          "description": "A compact, low-noise theme designed to stay out of the way during everyday terminal work. Includes abbreviated paths and concise indicators for Git state, virtualenvs, nested shells and background jobs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A compact Zsh theme designed for everyday terminal work.",
-            "homepage": null,
-            "id": 1311930789,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-09-08T13:46:53Z",
-            "open_issues": 3,
-            "owner": "azhuchkov",
-            "repo": "cobalt-spark",
-            "stars": 29,
-            "topics": [
-              "minimalist",
-              "oh-my-zsh",
-              "prompt",
-              "shell",
-              "terminal",
               "zsh",
               "zsh-theme"
             ]
@@ -45676,27 +45677,6 @@
         },
         {
           "node_type": "item",
-          "title": "minimal-os",
-          "description": "A minimalist prompt with helpful status and system-specific decorators.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Minimal-OS is a sleek and simple Zsh theme designed for use with Oh-My-Zsh. It provides a minimalist prompt with helpful Git status indicators and system-specific icons.",
-            "homepage": null,
-            "id": 808974924,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2025-01-14T14:59:12Z",
-            "open_issues": 0,
-            "owner": "nkurata",
-            "repo": "zsh-theme",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-30T00:36:37.460Z"
-        },
-        {
-          "node_type": "item",
           "title": "modern-dark-pro-capsule",
           "description": "Premium, modern, and dark-mode-optimized ZSH theme featuring capsule-shaped status segments. Includes ZSH execution timer, remote sync status, and developer icons.",
           "children": [],
@@ -47562,6 +47542,27 @@
             "open_issues": 1,
             "owner": "syndbg",
             "repo": "mindful-space-zsh-theme",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T00:36:37.460Z"
+        },
+        {
+          "node_type": "item",
+          "title": "minimal-os",
+          "description": "A minimalist prompt with helpful status and system-specific decorators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Minimal-OS is a sleek and simple Zsh theme designed for use with Oh-My-Zsh. It provides a minimalist prompt with helpful Git status indicators and system-specific icons.",
+            "homepage": null,
+            "id": 808974924,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2025-01-14T14:59:12Z",
+            "open_issues": 0,
+            "owner": "nkurata",
+            "repo": "zsh-theme",
             "stars": 2,
             "topics": []
           },
@@ -60730,10 +60731,10 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T16:32:47Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64562,
+            "stars": 64570,
             "topics": [
               "font",
               "font-awesome",
@@ -60768,7 +60769,7 @@
             "open_issues": 36,
             "owner": "subframe7536",
             "repo": "maple-font",
-            "stars": 28773,
+            "stars": 28791,
             "topics": [
               "coding-font",
               "font",
@@ -60801,7 +60802,7 @@
             "open_issues": 184,
             "owner": "powerline",
             "repo": "fonts",
-            "stars": 26317,
+            "stars": 26318,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -60818,11 +60819,11 @@
             "id": 39315600,
             "language": "JavaScript",
             "license": "OFL-1.1",
-            "last_commit": "2026-09-08T04:49:23Z",
+            "last_commit": "2026-09-11T00:27:26Z",
             "open_issues": 101,
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22729,
+            "stars": 22735,
             "topics": [
               "font",
               "iosevka",
@@ -60852,7 +60853,7 @@
             "open_issues": 71,
             "owner": "belluzj",
             "repo": "fantasque-sans",
-            "stars": 7437,
+            "stars": 7439,
             "topics": [
               "font",
               "monospace-font"
@@ -60944,7 +60945,7 @@
             "open_issues": 98,
             "owner": "zsh-users",
             "repo": "antigen",
-            "stars": 8353,
+            "stars": 8354,
             "topics": [
               "package-manager",
               "plugin-manager",
@@ -60991,7 +60992,7 @@
             "open_issues": 198,
             "owner": "sorin-ionescu",
             "repo": "prezto",
-            "stars": 14565,
+            "stars": 14566,
             "topics": [
               "cli",
               "framework",
@@ -61098,7 +61099,7 @@
             "open_issues": 0,
             "owner": "zpm-zsh",
             "repo": "zpm",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "android",
               "linux",
@@ -61172,7 +61173,7 @@
                 "open_issues": 50,
                 "owner": "carapace-sh",
                 "repo": "carapace",
-                "stars": 1434,
+                "stars": 1435,
                 "topics": [
                   "bash",
                   "carapace",
@@ -61774,7 +61775,7 @@
                 "open_issues": 0,
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 35110,
+                "stars": 35114,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -61805,7 +61806,7 @@
                 "open_issues": 151,
                 "owner": "k4m4",
                 "repo": "terminals-are-sexy",
-                "stars": 13113,
+                "stars": 13114,
                 "topics": [
                   "awesome-lists",
                   "cli-lovers",
@@ -61831,7 +61832,7 @@
                 "open_issues": 42,
                 "owner": "jondot",
                 "repo": "awesome-devenv",
-                "stars": 3339,
+                "stars": 3342,
                 "topics": []
               },
               "first_seen": "2026-08-30T00:36:37.460Z"
@@ -61911,7 +61912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:29:33.029Z",
+    "last_updated": "2026-09-11T00:27:23.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
@@ -61923,7 +61924,7 @@
       "open_issues": 6,
       "owner": "unixorn",
       "repo": "awesome-zsh-plugins",
-      "stars": 17998,
+      "stars": 18001,
       "topics": [
         "awesome",
         "awesome-list",
