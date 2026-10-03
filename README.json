@@ -1472,7 +1472,7 @@
             {
               "node_type": "item",
               "title": "Cache mechanism for reducing the startup time",
-              "description": null,
+              "description": "zplug/zplug",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1514,7 +1514,7 @@
                     "open_issues": 303,
                     "owner": "ohmyzsh",
                     "repo": "ohmyzsh",
-                    "stars": 190043,
+                    "stars": 190047,
                     "topics": [
                       "cli",
                       "cli-app",
@@ -1538,7 +1538,7 @@
                 {
                   "node_type": "item",
                   "title": "etc. (you can add your own sources",
-                  "description": "!)",
+                  "description": "zplug/zplug",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2099,7 +2099,7 @@
                 "id": 323112269,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-01T05:05:23Z",
+                "last_commit": "2026-10-03T03:53:56Z",
                 "open_issues": 0,
                 "owner": "MenkeTechnologies",
                 "repo": "zpwr",
@@ -2146,7 +2146,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64794,
+            "stars": 64797,
             "topics": [
               "font",
               "font-awesome",
@@ -2223,7 +2223,7 @@
             "open_issues": 63,
             "owner": "githubnext",
             "repo": "monaspace",
-            "stars": 19689,
+            "stars": 19690,
             "topics": [
               "font",
               "fonts",
@@ -2789,7 +2789,7 @@
                 {
                   "node_type": "item",
                   "title": "Non-blocking ZSH prompt status updates thanks to agkozak-zsh-prompt",
-                  "description": null,
+                  "description": "agkozak/agkozak-zsh-prompt",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2871,7 +2871,7 @@
             "open_issues": 153,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39839,
+            "stars": 39842,
             "topics": [
               "autojump",
               "bash",
@@ -2913,7 +2913,7 @@
             "open_issues": 203,
             "owner": "zsh-users",
             "repo": "zsh-autosuggestions",
-            "stars": 36105,
+            "stars": 36107,
             "topics": [
               "autocomplete",
               "autosuggest",
@@ -2941,7 +2941,7 @@
             "open_issues": 1945,
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 35628,
+            "stars": 35629,
             "topics": [
               "multiplexer",
               "terminal",
@@ -3040,7 +3040,7 @@
             "open_issues": 15,
             "owner": "marlonrichert",
             "repo": "zsh-autocomplete",
-            "stars": 6758,
+            "stars": 6759,
             "topics": [
               "asynchronous",
               "autocomplete",
@@ -3105,7 +3105,7 @@
             "open_issues": 7,
             "owner": "wfxr",
             "repo": "forgit",
-            "stars": 5085,
+            "stars": 5086,
             "topics": [
               "bash",
               "cli",
@@ -3756,7 +3756,7 @@
             "open_issues": 13,
             "owner": "Giammarco-Ferranti",
             "repo": "deja",
-            "stars": 863,
+            "stars": 866,
             "topics": [
               "autocomplete",
               "autocomplete-suggestions",
@@ -4585,7 +4585,7 @@
             "id": 360002009,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T07:55:26Z",
+            "last_commit": "2026-10-03T04:12:14Z",
             "open_issues": 2,
             "owner": "yuki-yano",
             "repo": "zeno.zsh",
@@ -7024,7 +7024,7 @@
             "id": 15982862,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-29T04:11:33Z",
+            "last_commit": "2026-10-03T03:46:19Z",
             "open_issues": 0,
             "owner": "voronkovich",
             "repo": "gitignore.plugin.zsh",
@@ -17640,7 +17640,7 @@
             "id": 936142683,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T04:38:43Z",
+            "last_commit": "2026-10-03T04:21:09Z",
             "open_issues": 0,
             "owner": "phucisstupid",
             "repo": "cowsay.zsh",
@@ -32395,8 +32395,8 @@
             "id": 1115469228,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:21:26Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-03T05:13:34Z",
+            "open_issues": 2,
             "owner": "1160054",
             "repo": "claude-code-zsh-completion",
             "stars": 12,
@@ -34219,7 +34219,7 @@
             "id": 438413020,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T05:00:03Z",
+            "last_commit": "2026-10-03T04:43:44Z",
             "open_issues": 0,
             "owner": "jygastaud",
             "repo": "dagger-oh-my-zsh",
@@ -35874,7 +35874,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64794,
+            "stars": 64797,
             "topics": [
               "font",
               "font-awesome",
@@ -35909,7 +35909,7 @@
             "open_issues": 153,
             "owner": "romkatv",
             "repo": "powerlevel10k",
-            "stars": 55188,
+            "stars": 55190,
             "topics": [
               "zsh"
             ]
@@ -61175,7 +61175,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64794,
+            "stars": 64797,
             "topics": [
               "font",
               "font-awesome",
@@ -61210,7 +61210,7 @@
             "open_issues": 37,
             "owner": "subframe7536",
             "repo": "maple-font",
-            "stars": 29103,
+            "stars": 29104,
             "topics": [
               "coding-font",
               "font",
@@ -61264,7 +61264,7 @@
             "open_issues": 98,
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22805,
+            "stars": 22807,
             "topics": [
               "font",
               "iosevka",
@@ -62263,7 +62263,7 @@
                 "open_issues": 0,
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 35318,
+                "stars": 35319,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -62320,7 +62320,7 @@
                 "open_issues": 43,
                 "owner": "jondot",
                 "repo": "awesome-devenv",
-                "stars": 3359,
+                "stars": 3360,
                 "topics": []
               },
               "first_seen": "2026-08-30T00:36:37.460Z"
@@ -62400,7 +62400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:21:14.121Z",
+    "last_updated": "2026-10-03T05:13:37.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
@@ -62412,7 +62412,7 @@
       "open_issues": 6,
       "owner": "unixorn",
       "repo": "awesome-zsh-plugins",
-      "stars": 18043,
+      "stars": 18044,
       "topics": [
         "awesome",
         "awesome-list",
