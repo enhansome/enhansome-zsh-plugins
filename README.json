@@ -371,6 +371,27 @@
         },
         {
           "children": [],
+          "description": "A lightweight alternative to oh-my-zsh, improving load times while still keeping essential features like themes and plugins.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "A lightweight alternative to Oh My Zsh, improving load times while still keeping essential features like themes and plugins.",
+            "homepage": null,
+            "id": 1397208626,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-30T18:23:02Z",
+            "open_issues": 0,
+            "owner": "computer-wilco",
+            "repo": "microzsh",
+            "stars": 0,
+            "topics": []
+          },
+          "title": "microzsh",
+          "first_seen": "2026-10-03T01:21:14.121Z"
+        },
+        {
+          "children": [],
           "description": "PMS allows you to manage your shell in a way to that helps decrease setup time and increases your productivity. It has support for themes (change the way your shell looks), plugins (adds functionality to your shell), and dotfile management.\nThe PMS framework also allows you to use the same framework in different shells. Use ZSH on your personal laptop, and use on remote servers. Wanna try ? Go ahead, try out different shells.",
           "node_type": "item",
           "repo_info": {
@@ -549,7 +570,7 @@
                 "open_issues": 8,
                 "owner": "toml-lang",
                 "repo": "toml",
-                "stars": 20626,
+                "stars": 20625,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:15:34.618Z"
@@ -764,7 +785,7 @@
             "open_issues": 111,
             "owner": "x-cmd",
             "repo": "x-cmd",
-            "stars": 4691,
+            "stars": 4695,
             "topics": [
               "agent",
               "ai",
@@ -1118,7 +1139,7 @@
             "open_issues": 29,
             "owner": "z-shell",
             "repo": "zi",
-            "stars": 914,
+            "stars": 913,
             "topics": [
               "all-in-one",
               "cli",
@@ -1169,7 +1190,7 @@
             "open_issues": 22,
             "owner": "zimfw",
             "repo": "zimfw",
-            "stars": 4700,
+            "stars": 4702,
             "topics": [
               "framework",
               "zim",
@@ -1197,7 +1218,7 @@
             "open_issues": 111,
             "owner": "zdharma-continuum",
             "repo": "zinit",
-            "stars": 4867,
+            "stars": 4868,
             "topics": [
               "package-manager",
               "plugin-manager",
@@ -1402,11 +1423,11 @@
                 "id": 13807606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-30T12:31:30Z",
+                "last_commit": "2026-10-02T13:18:24Z",
                 "open_issues": 332,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83346,
+                "stars": 83355,
                 "topics": [
                   "bash",
                   "cli",
@@ -1490,10 +1511,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-09-29T15:38:41Z",
-                    "open_issues": 302,
+                    "open_issues": 303,
                     "owner": "ohmyzsh",
                     "repo": "ohmyzsh",
-                    "stars": 190028,
+                    "stars": 190043,
                     "topics": [
                       "cli",
                       "cli-app",
@@ -2125,7 +2146,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64782,
+            "stars": 64794,
             "topics": [
               "font",
               "font-awesome",
@@ -2202,7 +2223,7 @@
             "open_issues": 63,
             "owner": "githubnext",
             "repo": "monaspace",
-            "stars": 19684,
+            "stars": 19689,
             "topics": [
               "font",
               "fonts",
@@ -2357,7 +2378,7 @@
                 "open_issues": 47,
                 "owner": "romkatv",
                 "repo": "zsh4humans",
-                "stars": 2297,
+                "stars": 2298,
                 "topics": [
                   "zsh"
                 ]
@@ -2847,10 +2868,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-01T20:14:49Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39819,
+            "stars": 39839,
             "topics": [
               "autojump",
               "bash",
@@ -2892,7 +2913,7 @@
             "open_issues": 203,
             "owner": "zsh-users",
             "repo": "zsh-autosuggestions",
-            "stars": 36102,
+            "stars": 36105,
             "topics": [
               "autocomplete",
               "autosuggest",
@@ -2916,11 +2937,11 @@
             "id": 292014229,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-30T17:26:20Z",
-            "open_issues": 1942,
+            "last_commit": "2026-10-02T15:55:32Z",
+            "open_issues": 1945,
             "owner": "zellij-org",
             "repo": "zellij",
-            "stars": 35622,
+            "stars": 35628,
             "topics": [
               "multiplexer",
               "terminal",
@@ -2945,7 +2966,7 @@
             "open_issues": 214,
             "owner": "zsh-users",
             "repo": "zsh-syntax-highlighting",
-            "stars": 23013,
+            "stars": 23015,
             "topics": [
               "screenshot",
               "shell",
@@ -2972,7 +2993,7 @@
             "open_issues": 232,
             "owner": "wting",
             "repo": "autojump",
-            "stars": 16964,
+            "stars": 16961,
             "topics": [
               "autojump",
               "command-line-tool",
@@ -3019,7 +3040,7 @@
             "open_issues": 15,
             "owner": "marlonrichert",
             "repo": "zsh-autocomplete",
-            "stars": 6756,
+            "stars": 6758,
             "topics": [
               "asynchronous",
               "autocomplete",
@@ -3084,7 +3105,7 @@
             "open_issues": 7,
             "owner": "wfxr",
             "repo": "forgit",
-            "stars": 5086,
+            "stars": 5085,
             "topics": [
               "bash",
               "cli",
@@ -3113,7 +3134,7 @@
             "open_issues": 110,
             "owner": "Aloxaf",
             "repo": "fzf-tab",
-            "stars": 4947,
+            "stars": 4949,
             "topics": [
               "completion",
               "fzf",
@@ -3340,8 +3361,8 @@
             "id": 161409341,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T00:50:10Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-02T02:48:49Z",
+            "open_issues": 19,
             "owner": "agkozak",
             "repo": "zsh-z",
             "stars": 2456,
@@ -3393,7 +3414,7 @@
             "open_issues": 30,
             "owner": "lukechilds",
             "repo": "zsh-nvm",
-            "stars": 2412,
+            "stars": 2413,
             "topics": [
               "antigen",
               "nvm",
@@ -3606,11 +3627,11 @@
             "id": 24296070,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T14:23:39Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-02T15:05:36Z",
+            "open_issues": 4,
             "owner": "unixorn",
             "repo": "git-extra-commands",
-            "stars": 1170,
+            "stars": 1171,
             "topics": [
               "antigen",
               "bash",
@@ -3648,7 +3669,7 @@
             "open_issues": 12,
             "owner": "deluan",
             "repo": "zsh-in-docker",
-            "stars": 1120,
+            "stars": 1121,
             "topics": [
               "docker",
               "dockerfile",
@@ -3731,11 +3752,11 @@
             "id": 1203531250,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T12:34:38Z",
+            "last_commit": "2026-10-02T06:45:29Z",
             "open_issues": 13,
             "owner": "Giammarco-Ferranti",
             "repo": "deja",
-            "stars": 848,
+            "stars": 863,
             "topics": [
               "autocomplete",
               "autocomplete-suggestions",
@@ -3812,7 +3833,7 @@
             "open_issues": 16,
             "owner": "olets",
             "repo": "zsh-abbr",
-            "stars": 801,
+            "stars": 802,
             "topics": [
               "abbreviations",
               "cli",
@@ -4024,7 +4045,7 @@
             "open_issues": 14,
             "owner": "zsh-users",
             "repo": "zaw",
-            "stars": 587,
+            "stars": 586,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -4353,7 +4374,7 @@
             "open_issues": 7,
             "owner": "SukkaW",
             "repo": "zsh-proxy",
-            "stars": 398,
+            "stars": 397,
             "topics": [
               "oh-my-zsh",
               "oh-my-zsh-plugin",
@@ -4950,7 +4971,7 @@
             "open_issues": 7,
             "owner": "kutsan",
             "repo": "zsh-system-clipboard",
-            "stars": 182,
+            "stars": 181,
             "topics": [
               "zsh",
               "zsh-plugin"
@@ -5427,7 +5448,7 @@
             "open_issues": 1,
             "owner": "z-shell",
             "repo": "zsh-eza",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "eza",
               "zsh-plugin",
@@ -5452,7 +5473,7 @@
             "open_issues": 1,
             "owner": "z-shell",
             "repo": "zsh-eza",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "eza",
               "zsh-plugin",
@@ -5724,44 +5745,6 @@
         },
         {
           "node_type": "item",
-          "title": "zsh-vi-man",
-          "description": "Smart man page lookup for zsh vi mode. Press on any command or option to instantly open its man page with smart detection for subcommands, option jumping, combined options, and pipe support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Zsh vi-mode plugin for instant man-page help — press Shift-K to open a command’s man page with the option under your cursor auto-searched. 🔍",
-            "homepage": null,
-            "id": 1104899260,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-03-08T14:31:42Z",
-            "open_issues": 0,
-            "owner": "TunaCuma",
-            "repo": "zsh-vi-man",
-            "stars": 100,
-            "topics": [
-              "antigen",
-              "command-line-tool",
-              "man-page",
-              "oh-my-zsh",
-              "productivity",
-              "shell",
-              "shell-script",
-              "terminal",
-              "vi-keybinds",
-              "vim",
-              "zgen",
-              "zinit",
-              "zplug",
-              "zsh",
-              "zsh-plugin",
-              "zsh-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
           "title": "zpy",
           "description": "Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for uv or pip-tools.",
           "children": [],
@@ -5785,6 +5768,44 @@
               "venv",
               "zsh",
               "zsh-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
+          "title": "zsh-vi-man",
+          "description": "Smart man page lookup for zsh vi mode. Press on any command or option to instantly open its man page with smart detection for subcommands, option jumping, combined options, and pipe support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zsh vi-mode plugin for instant man-page help — press Shift-K to open a command’s man page with the option under your cursor auto-searched. 🔍",
+            "homepage": null,
+            "id": 1104899260,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-03-08T14:31:42Z",
+            "open_issues": 0,
+            "owner": "TunaCuma",
+            "repo": "zsh-vi-man",
+            "stars": 99,
+            "topics": [
+              "antigen",
+              "command-line-tool",
+              "man-page",
+              "oh-my-zsh",
+              "productivity",
+              "shell",
+              "shell-script",
+              "terminal",
+              "vi-keybinds",
+              "vim",
+              "zgen",
+              "zinit",
+              "zplug",
+              "zsh",
+              "zsh-plugin",
+              "zsh-plugins"
             ]
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -6622,27 +6643,6 @@
         },
         {
           "node_type": "item",
-          "title": "timewarrior (svenXY)",
-          "description": "Adds support for timewarrior, a time-tracking application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "zsh plugin for timewarrior",
-            "homepage": null,
-            "id": 130318815,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2025-06-24T07:13:04Z",
-            "open_issues": 1,
-            "owner": "svenXY",
-            "repo": "timewarrior",
-            "stars": 62,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
           "title": "fzf-dir-navigator",
           "description": "This is a cool and user-friendly directory navigation plugin for ZSH using fzf that allows the user to switch to any directory from anywhere and to anywhere. It also maintains a history of recently visited directories. Additionally, you can use hotkeys to move back and forth between directories in the shell session.",
           "children": [],
@@ -6688,6 +6688,27 @@
               "openai",
               "zsh"
             ]
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
+          "title": "timewarrior (svenXY)",
+          "description": "Adds support for timewarrior, a time-tracking application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "zsh plugin for timewarrior",
+            "homepage": null,
+            "id": 130318815,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2025-06-24T07:13:04Z",
+            "open_issues": 1,
+            "owner": "svenXY",
+            "repo": "timewarrior",
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
         },
@@ -7304,6 +7325,27 @@
         },
         {
           "node_type": "item",
+          "title": "atuin",
+          "description": "Replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "✨ Magical shell history",
+            "homepage": "https://atuin.sh",
+            "id": 1154121117,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-09-27T02:39:06Z",
+            "open_issues": 0,
+            "owner": "ellie",
+            "repo": "atuin",
+            "stars": 47,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
           "title": "docker-run",
           "description": "Go back to running your commands \"naturally\", we'll handle the container.",
           "children": [],
@@ -7344,27 +7386,6 @@
             "owner": "molovo",
             "repo": "lumberjack",
             "stars": 47,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
-          "title": "atuin",
-          "description": "Replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "✨ Magical shell history",
-            "homepage": "https://atuin.sh",
-            "id": 1154121117,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-09-27T02:39:06Z",
-            "open_issues": 0,
-            "owner": "ellie",
-            "repo": "atuin",
-            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
@@ -14725,27 +14746,6 @@
         },
         {
           "node_type": "item",
-          "title": "kubecolor (droctothorpe)",
-          "description": "Simplify and colorize the output of",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simplify and colorize the output of kubectl get events -w",
-            "homepage": null,
-            "id": 193985726,
-            "language": "Shell",
-            "license": null,
-            "last_commit": "2019-06-27T13:49:20Z",
-            "open_issues": 2,
-            "owner": "droctothorpe",
-            "repo": "kubecolor",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:15:34.618Z"
-        },
-        {
-          "node_type": "item",
           "title": "lando (joshuabedford)",
           "description": "A collection of alias functions to enable the use of the CLIs within Lando without having to type lando to access them.",
           "children": [],
@@ -15691,6 +15691,27 @@
             "open_issues": 0,
             "owner": "dwaynebradley",
             "repo": "k3d-oh-my-zsh-plugin",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
+          "title": "kubecolor (droctothorpe)",
+          "description": "Simplify and colorize the output of",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simplify and colorize the output of kubectl get events -w",
+            "homepage": null,
+            "id": 193985726,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2019-06-27T13:49:20Z",
+            "open_issues": 2,
+            "owner": "droctothorpe",
+            "repo": "kubecolor",
             "stars": 7,
             "topics": []
           },
@@ -17614,12 +17635,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "✨🐄 Beautiful Cowsay zsh plugin to display jokes (UPDATE DAILY) 💬",
+            "description": "zsh plugin to display jokes using cowsay 💬",
             "homepage": "https://github.com/phucleeuwu/my.zsh",
             "id": 936142683,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-01T04:47:16Z",
+            "last_commit": "2026-10-02T04:38:43Z",
             "open_issues": 0,
             "owner": "phucisstupid",
             "repo": "cowsay.zsh",
@@ -20828,7 +20849,7 @@
             "id": 1299476970,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-27T09:01:10Z",
+            "last_commit": "2026-10-02T09:50:17Z",
             "open_issues": 0,
             "owner": "rambaarde",
             "repo": "create-ai-memory",
@@ -21402,7 +21423,7 @@
             "id": 1375917329,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T14:17:19Z",
+            "last_commit": "2026-10-02T13:39:27Z",
             "open_issues": 1,
             "owner": "FindMalek",
             "repo": "guesswork",
@@ -26347,7 +26368,7 @@
             "id": 1021268545,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:16:06Z",
+            "last_commit": "2026-10-02T04:55:42Z",
             "open_issues": 4,
             "owner": "shields",
             "repo": "git-prompt-watcher",
@@ -30496,6 +30517,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
+          "title": "zshrs-fasd",
+          "description": "Native zshrs plugin for fasd.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "fasd (file+directory frecency: a/s/d/f/j/v) ported to a native zshrs plugin — install: znative load MenkeTechnologies/zshrs-fasd",
+            "homepage": null,
+            "id": 1304526621,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-01T05:00:52Z",
+            "open_issues": 0,
+            "owner": "MenkeTechnologies",
+            "repo": "zshrs-fasd",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T01:21:14.121Z"
         }
       ],
       "title": "Plugins"
@@ -30519,7 +30561,7 @@
             "open_issues": 10,
             "owner": "microsoft",
             "repo": "inshellisense",
-            "stars": 10718,
+            "stars": 10715,
             "topics": [
               "autocomplete",
               "bash",
@@ -30554,7 +30596,7 @@
             "open_issues": 8,
             "owner": "zsh-users",
             "repo": "zsh-completions",
-            "stars": 7893,
+            "stars": 7894,
             "topics": [
               "completion",
               "shell",
@@ -30580,7 +30622,7 @@
             "open_issues": 135,
             "owner": "cantino",
             "repo": "mcfly",
-            "stars": 7803,
+            "stars": 7802,
             "topics": [
               "history",
               "rust",
@@ -30827,7 +30869,7 @@
             "open_issues": 5,
             "owner": "sigoden",
             "repo": "argc-completions",
-            "stars": 460,
+            "stars": 459,
             "topics": [
               "bash",
               "bash-completions",
@@ -31303,7 +31345,7 @@
             "id": 38897382,
             "language": "Makefile",
             "license": "MIT",
-            "last_commit": "2024-06-19T20:14:58Z",
+            "last_commit": "2026-10-02T16:07:44Z",
             "open_issues": 4,
             "owner": "keith",
             "repo": "zsh-xcode-completions",
@@ -31397,7 +31439,7 @@
             "id": 1108766111,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-01T12:27:57Z",
+            "last_commit": "2026-10-02T17:39:50Z",
             "open_issues": 7,
             "owner": "wbingli",
             "repo": "zsh-claudecode-completion",
@@ -32353,8 +32395,8 @@
             "id": 1115469228,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-13T01:32:54Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-03T01:21:26Z",
+            "open_issues": 0,
             "owner": "1160054",
             "repo": "claude-code-zsh-completion",
             "stars": 12,
@@ -32411,7 +32453,7 @@
             "id": 164330365,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T14:29:04Z",
+            "last_commit": "2026-10-02T14:19:57Z",
             "open_issues": 10,
             "owner": "jayree",
             "repo": "sfdx-autocomplete-plugin",
@@ -34177,7 +34219,7 @@
             "id": 438413020,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T05:11:32Z",
+            "last_commit": "2026-10-02T05:00:03Z",
             "open_issues": 0,
             "owner": "jygastaud",
             "repo": "dagger-oh-my-zsh",
@@ -35169,6 +35211,42 @@
         },
         {
           "node_type": "item",
+          "title": "agy",
+          "description": "Tab completion for the Antigravity CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zsh completion plugin for agy, the Antigravity CLI, generated from the CLI's own help output",
+            "homepage": null,
+            "id": 1401049604,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-02T04:13:59Z",
+            "open_issues": 0,
+            "owner": "feRpicoral",
+            "repo": "zsh-agy-completion",
+            "stars": 0,
+            "topics": [
+              "agy",
+              "antigravity",
+              "antigravity-cli",
+              "autocomplete",
+              "cli",
+              "google-antigravity",
+              "oh-my-zsh",
+              "oh-my-zsh-plugin",
+              "shell-completion",
+              "tab-completion",
+              "zsh",
+              "zsh-completion",
+              "zsh-completions",
+              "zsh-plugin"
+            ]
+          },
+          "first_seen": "2026-10-03T01:21:14.121Z"
+        },
+        {
+          "node_type": "item",
           "title": "aliyun",
           "description": "Add completions for the Aliyun CLI.",
           "children": [],
@@ -35667,6 +35745,40 @@
         },
         {
           "node_type": "item",
+          "title": "vercel",
+          "description": "Tab completion for the Vercel CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zsh completion plugin for the Vercel CLI, generated from the CLI's own command definitions",
+            "homepage": null,
+            "id": 1401033062,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-02T17:35:35Z",
+            "open_issues": 1,
+            "owner": "feRpicoral",
+            "repo": "zsh-vercel-completion",
+            "stars": 0,
+            "topics": [
+              "autocomplete",
+              "cli",
+              "oh-my-zsh",
+              "oh-my-zsh-plugin",
+              "shell-completion",
+              "tab-completion",
+              "vercel",
+              "vercel-cli",
+              "zsh",
+              "zsh-completion",
+              "zsh-completions",
+              "zsh-plugin"
+            ]
+          },
+          "first_seen": "2026-10-03T01:21:14.121Z"
+        },
+        {
+          "node_type": "item",
           "title": "vert.x",
           "description": "Provides autocomplete features for the vertx command.",
           "children": [],
@@ -35762,7 +35874,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64782,
+            "stars": 64794,
             "topics": [
               "font",
               "font-awesome",
@@ -35797,7 +35909,7 @@
             "open_issues": 153,
             "owner": "romkatv",
             "repo": "powerlevel10k",
-            "stars": 55185,
+            "stars": 55188,
             "topics": [
               "zsh"
             ]
@@ -36075,7 +36187,7 @@
             "open_issues": 87,
             "owner": "justjanne",
             "repo": "powerline-go",
-            "stars": 2892,
+            "stars": 2890,
             "topics": [
               "bash",
               "color-scheme",
@@ -36255,7 +36367,7 @@
             "open_issues": 14,
             "owner": "geometry-zsh",
             "repo": "geometry",
-            "stars": 1000,
+            "stars": 999,
             "topics": [
               "geometry",
               "prompt",
@@ -36282,7 +36394,7 @@
             "open_issues": 0,
             "owner": "reobin",
             "repo": "typewritten",
-            "stars": 950,
+            "stars": 949,
             "topics": [
               "async",
               "git",
@@ -36750,7 +36862,7 @@
             "open_issues": 9,
             "owner": "eendroroy",
             "repo": "alien",
-            "stars": 349,
+            "stars": 350,
             "topics": [
               "aliens",
               "terminal-theme",
@@ -42726,7 +42838,7 @@
             "license": "MIT",
             "last_commit": "2022-01-14T18:37:39Z",
             "open_issues": 0,
-            "owner": "w33tmaricich",
+            "owner": "apmaricich",
             "repo": "enlightenment",
             "stars": 6,
             "topics": [
@@ -47079,7 +47191,7 @@
             "id": 57256480,
             "language": "Shell",
             "license": "Unlicense",
-            "last_commit": "2026-10-01T16:29:17Z",
+            "last_commit": "2026-10-02T17:21:55Z",
             "open_issues": 1,
             "owner": "danielparks",
             "repo": "danielparks-zsh-theme",
@@ -49783,6 +49895,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:15:34.618Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cad0p",
+          "description": "One-line theme with a 24-hour clock, , current directory and status decorations. Based on the geoffgarside theme from Oh-My-ZSH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A minimal oh-my-zsh theme: 24h clock, user@host:dir, git:(branch)",
+            "homepage": null,
+            "id": 1400965387,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-10-02T03:20:44Z",
+            "open_issues": 1,
+            "owner": "cad0p",
+            "repo": "cad0p-zsh-theme",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T01:21:14.121Z"
         },
         {
           "node_type": "item",
@@ -60590,8 +60723,8 @@
             "homepage": null,
             "id": 1309099082,
             "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-09-04T11:44:26Z",
+            "license": "ISC",
+            "last_commit": "2026-10-02T21:48:58Z",
             "open_issues": 0,
             "owner": "vihrom",
             "repo": "weakline",
@@ -61042,7 +61175,7 @@
             "open_issues": 27,
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 64782,
+            "stars": 64794,
             "topics": [
               "font",
               "font-awesome",
@@ -61077,7 +61210,7 @@
             "open_issues": 37,
             "owner": "subframe7536",
             "repo": "maple-font",
-            "stars": 29100,
+            "stars": 29103,
             "topics": [
               "coding-font",
               "font",
@@ -61128,10 +61261,10 @@
             "language": "JavaScript",
             "license": "OFL-1.1",
             "last_commit": "2026-10-01T05:49:59Z",
-            "open_issues": 99,
+            "open_issues": 98,
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22800,
+            "stars": 22805,
             "topics": [
               "font",
               "iosevka",
@@ -61161,7 +61294,7 @@
             "open_issues": 72,
             "owner": "belluzj",
             "repo": "fantasque-sans",
-            "stars": 7457,
+            "stars": 7456,
             "topics": [
               "font",
               "monospace-font"
@@ -61452,7 +61585,7 @@
                 "open_issues": 74,
                 "owner": "kislyuk",
                 "repo": "argcomplete",
-                "stars": 1583,
+                "stars": 1584,
                 "topics": [
                   "argparse",
                   "bash",
@@ -61519,7 +61652,7 @@
                 "open_issues": 111,
                 "owner": "shellspec",
                 "repo": "shellspec",
-                "stars": 1396,
+                "stars": 1395,
                 "topics": [
                   "bash",
                   "bdd",
@@ -61582,7 +61715,7 @@
                 "open_issues": 13,
                 "owner": "tqdm",
                 "repo": "shtab",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "argcomplete",
                   "argparse",
@@ -62130,7 +62263,7 @@
                 "open_issues": 0,
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 35312,
+                "stars": 35318,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -62215,7 +62348,7 @@
                 "open_issues": 2,
                 "owner": "rothgar",
                 "repo": "mastering-zsh",
-                "stars": 1646,
+                "stars": 1647,
                 "topics": [
                   "shell",
                   "workshop",
@@ -62267,7 +62400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:47:06.340Z",
+    "last_updated": "2026-10-03T01:21:14.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
@@ -62275,11 +62408,11 @@
       "id": 24878875,
       "language": "Shell",
       "license": "BSD-3-Clause",
-      "last_commit": "2026-09-27T14:39:39Z",
+      "last_commit": "2026-10-02T15:03:04Z",
       "open_issues": 6,
       "owner": "unixorn",
       "repo": "awesome-zsh-plugins",
-      "stars": 18041,
+      "stars": 18043,
       "topics": [
         "awesome",
         "awesome-list",
@@ -62296,7 +62429,7 @@
         "zsh-theme"
       ]
     },
-    "original_repository_sha": "c06b5362e08d8ea27a67c2f8ada6b46f58313308",
+    "original_repository_sha": "f5556ad19f8fbf3455dbc50b7a0a2f66afff0443",
     "enhanced_repository": "enhansome/enhansome-zsh-plugins",
     "enhanced_repository_description": null,
     "title": "awesome-zsh-plugins with stars"
